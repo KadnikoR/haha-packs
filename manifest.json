@@ -1,26 +1,6 @@
 {
   "packs": [
     {
-      "name": "Пример: Fabric 1.20.1",
-      "version": "1.0",
-      "description": "Тестовая сборка. Положи моды в files/mods, конфиги в files/config — и запусти build_manifest.py.",
-      "minecraft": "1.20.1",
-      "loader": "fabric",
-      "loader_version": null,
-      "memory_mb": 4096,
-      "server": "",
-      "managed_dirs": [
-        "mods"
-      ],
-      "user_files": [
-        "options.txt",
-        "config/*"
-      ],
-      "jvm_args": [],
-      "id": "example-pack",
-      "files": []
-    },
-    {
       "name": "Forge 1.20.1 Stream Nave",
       "version": "1.0",
       "description": "Haha-Horror-Stream",
@@ -41,43 +21,43 @@
       "files": [
         {
           "path": "mods/312.jar",
-          "url": "https://github.com/KadnikoR/haha-packs/packs/haha-pack/files/mods/312.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/haha-pack/files/mods/312.jar",
           "sha1": "88836d25288a48325ddf925b3b74efe8841501b3",
           "size": 19888310
         },
         {
           "path": "mods/Scopophobia Reimagined - BetaV4 1.20.1.jar",
-          "url": "https://github.com/KadnikoR/haha-packs/packs/haha-pack/files/mods/Scopophobia%20Reimagined%20-%20BetaV4%201.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/haha-pack/files/mods/Scopophobia%20Reimagined%20-%20BetaV4%201.20.1.jar",
           "sha1": "ca11f80bbbde548071f20c7bd6da88a360c22b70",
           "size": 4673720
         },
         {
           "path": "mods/ShyGuy-forge-1.20.1-3.7.jar",
-          "url": "https://github.com/KadnikoR/haha-packs/packs/haha-pack/files/mods/ShyGuy-forge-1.20.1-3.7.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/haha-pack/files/mods/ShyGuy-forge-1.20.1-3.7.jar",
           "sha1": "b91309473678fbe6c9eb8b18070546156f81bc4b",
           "size": 1051137
         },
         {
           "path": "mods/anomaly_rephased-2.0.0b32-forge-1.20.1.jar",
-          "url": "https://github.com/KadnikoR/haha-packs/packs/haha-pack/files/mods/anomaly_rephased-2.0.0b32-forge-1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/haha-pack/files/mods/anomaly_rephased-2.0.0b32-forge-1.20.1.jar",
           "sha1": "7e86902f4ed1ca18b47c7d686ce5bebfe7aa87d6",
           "size": 2938820
         },
         {
           "path": "mods/geckolib-forge-1.20.1-4.8.4.jar",
-          "url": "https://github.com/KadnikoR/haha-packs/packs/haha-pack/files/mods/geckolib-forge-1.20.1-4.8.4.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/haha-pack/files/mods/geckolib-forge-1.20.1-4.8.4.jar",
           "sha1": "81982cc287f80ffabb2fd36d22cc95e4255c739d",
           "size": 1038209
         },
         {
           "path": "mods/jei-1.20.1-forge-15.62.0.219.jar",
-          "url": "https://github.com/KadnikoR/haha-packs/packs/haha-pack/files/mods/jei-1.20.1-forge-15.62.0.219.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/haha-pack/files/mods/jei-1.20.1-forge-15.62.0.219.jar",
           "sha1": "e514cd6bc50b816487d9c25cd457de5e0bd5b07f",
           "size": 2232177
         },
         {
           "path": "mods/themimic_er-1.20.1-1.7.0.jar",
-          "url": "https://github.com/KadnikoR/haha-packs/packs/haha-pack/files/mods/themimic_er-1.20.1-1.7.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/haha-pack/files/mods/themimic_er-1.20.1-1.7.0.jar",
           "sha1": "0c85c86986a977c65f6d23f5c138c4f1b8845116",
           "size": 3333446
         }
