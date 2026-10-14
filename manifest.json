@@ -20,16 +20,34 @@
       "id": "Cinematic 1.12.2",
       "files": [
         {
-          "path": "mods/BetterFoliage-MC1.12-2.3.3.jar",
-          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/BetterFoliage-MC1.12-2.3.3.jar",
-          "sha1": "c34adcb52deed9acedb0b0c92ef7132f97c21e4d",
-          "size": 864681
+          "path": "mods/!mixinbooter-11.18.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/%21mixinbooter-11.18.jar",
+          "sha1": "45898e07afc9ca3791b58fe2f07ede89ec2b332f",
+          "size": 2451781
         },
         {
-          "path": "mods/BetterFps-1.4.8.jar",
-          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/BetterFps-1.4.8.jar",
-          "sha1": "245235d5c67daff00ee658ee1f88ae8c3e4584b8",
-          "size": 155196
+          "path": "mods/7777_s.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/7777_s.jar",
+          "sha1": "d22ea877f317ebfb82e0c48b50296fe37ad02d0d",
+          "size": 957238
+        },
+        {
+          "path": "mods/ACsGuis-1.2.12-all.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/ACsGuis-1.2.12-all.jar",
+          "sha1": "dbf1f3ff9803e14c8b7b737c14ffd23b1a4a81ba",
+          "size": 1123558
+        },
+        {
+          "path": "mods/BX.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/BX.jar",
+          "sha1": "826ec347ac9359f911fb02638be80f0af8612416",
+          "size": 3444153
+        },
+        {
+          "path": "mods/BetterLights-1.0.3.PREVIEW-all.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/BetterLights-1.0.3.PREVIEW-all.jar",
+          "sha1": "acd966810e90411ac61b785d6440f72f816b2c66",
+          "size": 12728237
         },
         {
           "path": "mods/CTM-MC1.12.2-1.0.2.31.jar",
@@ -40,8 +58,14 @@
         {
           "path": "mods/Chisel-MC1.12.2-1.0.2.45.jar",
           "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/Chisel-MC1.12.2-1.0.2.45.jar",
-          "sha1": "d378cee9195841ea78bb9800f543d718ef2c60ef",
-          "size": 4755282
+          "sha1": "f544ab3586d030f6f4de2d8e3c042e76b8a01766",
+          "size": 4722857
+        },
+        {
+          "path": "mods/Colored Block.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/Colored%20Block.jar",
+          "sha1": "913c45cd89e4f9c23047472e9a841093ae777965",
+          "size": 253689
         },
         {
           "path": "mods/CustomBlocks_v1.4.jar",
@@ -50,10 +74,22 @@
           "size": 590126
         },
         {
+          "path": "mods/LittleFrames_UNOFFICAL_by_Blake_v1.0.13_mc1.12.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/LittleFrames_UNOFFICAL_by_Blake_v1.0.13_mc1.12.2.jar",
+          "sha1": "448bb6e2109abdaa2f9f2e0cdb2c5617451a3a44",
+          "size": 629603
+        },
+        {
           "path": "mods/LittleTiles_v1.5.87_mc1.12.2.jar",
           "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/LittleTiles_v1.5.87_mc1.12.2.jar",
           "sha1": "f77d34ddd13caeb4781908443f73e51b9118fe60",
           "size": 1994663
+        },
+        {
+          "path": "mods/Minema-3.7.1-1.12.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/Minema-3.7.1-1.12.2.jar",
+          "sha1": "ad970fbde97eb2af5e434b24164a04eb537b0f91",
+          "size": 145948
         },
         {
           "path": "mods/NTS_Blocks.jar",
@@ -66,12 +102,6 @@
           "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/NotEnoughIDs_1.5.4.4.jar",
           "sha1": "30c75dbc917207050762c8ff77e70f57944f5a48",
           "size": 31782
-        },
-        {
-          "path": "mods/OptiFine-OptiFine-1.12.2_HD_U_G5.jar",
-          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/OptiFine-OptiFine-1.12.2_HD_U_G5.jar",
-          "sha1": "db971767e460269f2317bb5df57d8f522be65e2c",
-          "size": 2457427
         },
         {
           "path": "mods/PrimalCore_1.12.2_0.6.105.jar",
@@ -92,6 +122,12 @@
           "size": 1159424
         },
         {
+          "path": "mods/SRParasites-1.12.2v1.9.21.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/SRParasites-1.12.2v1.9.21.jar",
+          "sha1": "17225b532334c4652a698be3d41d819af2b0f051",
+          "size": 27022807
+        },
+        {
           "path": "mods/Surge-1.12.2-2.0.79.jar",
           "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/Surge-1.12.2-2.0.79.jar",
           "sha1": "f7197d44a0f1fb1af216d3ba6b7e3c1ed06a36e9",
@@ -110,10 +146,22 @@
           "size": 526351
         },
         {
+          "path": "mods/backrooms.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/backrooms.jar",
+          "sha1": "a0219e7de13aa775da224200de29e87ff37b69fd",
+          "size": 77456
+        },
+        {
           "path": "mods/blockbuster-2.7.1-1.12.2.jar",
           "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/blockbuster-2.7.1-1.12.2.jar",
           "sha1": "6bd1b06c68f5fba9d2feb951302f262d5f76fa47",
           "size": 1965333
+        },
+        {
+          "path": "mods/blocks_tdf_by_florov.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/blocks_tdf_by_florov.jar",
+          "sha1": "5647d4ce0433a7cce7b30ba8b226afa0c0c2bba6",
+          "size": 996702
         },
         {
           "path": "mods/chameleon-1.2.2.jar",
@@ -122,28 +170,10 @@
           "size": 119345
         },
         {
-          "path": "mods/chiseled-me-1.12-3.0.0.0-git-e5ce416.jar",
-          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/chiseled-me-1.12-3.0.0.0-git-e5ce416.jar",
-          "sha1": "94526924c3a6109ffc763345dfecd17bd0c649a7",
-          "size": 1181959
-        },
-        {
-          "path": "mods/chiselsandbits-14.33.jar",
-          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/chiselsandbits-14.33.jar",
-          "sha1": "0e6f159254e6899651087e5b1464bac91698d1d3",
-          "size": 737407
-        },
-        {
           "path": "mods/creativecore_v1.10.71_mc1.12.2.jar",
           "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/creativecore_v1.10.71_mc1.12.2.jar",
           "sha1": "2c60a20ae9c9431a3b215a331c2b2af7fa3a060c",
           "size": 1321137
-        },
-        {
-          "path": "mods/extrabitmanipulation-1.12.2-3.4.1.jar",
-          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/extrabitmanipulation-1.12.2-3.4.1.jar",
-          "sha1": "b6b018634075e995bdaf1318a4ac7d0f6c1d2158",
-          "size": 3834020
         },
         {
           "path": "mods/flatcoloredblocks-mc1.12-6.8.jar",
@@ -164,10 +194,10 @@
           "size": 5619810
         },
         {
-          "path": "mods/gr_v1.jar",
-          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/gr_v1.jar",
-          "sha1": "0d03a0523758e28839916eb2c29468a039b25a7b",
-          "size": 1035498
+          "path": "mods/fort.ress_flora_2.1.6_lockdown.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/fort.ress_flora_2.1.6_lockdown.jar",
+          "sha1": "2c52cbc12e0c90ec5e1c9c02374bb33b0976a046",
+          "size": 22140735
         },
         {
           "path": "mods/hotel4.jar",
@@ -188,18 +218,6 @@
           "size": 53756
         },
         {
-          "path": "mods/itemzoom_1.12.2_1.11.jar",
-          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/itemzoom_1.12.2_1.11.jar",
-          "sha1": "230cbdd018b71a44d96685e556839f33d8b44fd9",
-          "size": 21336
-        },
-        {
-          "path": "mods/justenoughbuttons-1.12.2-1.2.3.jar",
-          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/justenoughbuttons-1.12.2-1.2.3.jar",
-          "sha1": "28cb85134c66e2f468da82ef37fffffe2f64a966",
-          "size": 106019
-        },
-        {
           "path": "mods/kirosblocks-1.2.2.jar",
           "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/kirosblocks-1.2.2.jar",
           "sha1": "bb8591a3d45fb42bfb30fe8be41821c3cc0662e3",
@@ -210,6 +228,18 @@
           "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/lt3dimporter-0.7.jar",
           "sha1": "2d880e541c392c3a2a290c9f0a6b6a3d96da9814",
           "size": 120724
+        },
+        {
+          "path": "mods/mappet-0.9-1.12.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/mappet-0.9-1.12.2.jar",
+          "sha1": "d681e63c5f49cfe6213abfb0c27632f46f179a1d",
+          "size": 2481950
+        },
+        {
+          "path": "mods/mappetExtras-1.5.0-1.12.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/mappetExtras-1.5.0-1.12.2.jar",
+          "sha1": "c6ba907edd08806079da2d3fefa2a4dbf6159fae",
+          "size": 356321
         },
         {
           "path": "mods/mclib-2.4.3-1.12.2.jar",
@@ -224,16 +254,22 @@
           "size": 421252
         },
         {
-          "path": "mods/optimize.jar",
-          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/optimize.jar",
-          "sha1": "b7f247a306e9521f3bade46ea643989702be6a14",
-          "size": 242897
+          "path": "mods/nashorn.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/nashorn.jar",
+          "sha1": "7850e9b291388ca101c2d464a9594356addaac62",
+          "size": 2022531
         },
         {
-          "path": "mods/replaymod-1.12.2-2.6.24.jar",
-          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/replaymod-1.12.2-2.6.24.jar",
-          "sha1": "090dec4dfbd927bb1698177c1c3bccffc17afe8b",
-          "size": 16003495
+          "path": "mods/nature_global.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/nature_global.jar",
+          "sha1": "d187b0425ab4d56d1ae939f8730f0a116f976f95",
+          "size": 2367877
+        },
+        {
+          "path": "mods/opressed_blocks.v1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/opressed_blocks.v1.jar",
+          "sha1": "cb2931490b69e5bc86cef63fd61aa03bce96168a",
+          "size": 178490
         },
         {
           "path": "mods/sovietera0.6.jar",
@@ -248,16 +284,16 @@
           "size": 291514
         },
         {
-          "path": "mods/tl_skin_cape_forge_1.12.2-1.38.jar",
-          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/tl_skin_cape_forge_1.12.2-1.38.jar",
-          "sha1": "e60b3de266de47e906c22b1a19e8da1389fedcad",
-          "size": 778074
-        },
-        {
           "path": "mods/wallpapercraft_1.12.2_1.0.2_beta.jar",
           "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/wallpapercraft_1.12.2_1.0.2_beta.jar",
           "sha1": "45cf31e3451ecd13f886e41cb3e672a92709f17e",
           "size": 2095944
+        },
+        {
+          "path": "mods/warpmod-1_12_2-1_0_1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/warpmod-1_12_2-1_0_1.jar",
+          "sha1": "39f184b74228f2483ad2a2767965aa10409070f8",
+          "size": 413872
         },
         {
           "path": "mods/worldedit_forge_mc1.12.2_6.1.10_dist.jar",
@@ -3368,10 +3404,10 @@
     }
   ],
   "launcher_update": {
-    "version": "1.5.0",
+    "version": "1.6.0",
     "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/launcher/NaveStudio.exe",
-    "sha256": "704fd31a49b6f29cf14a2f7a9ede5ce6ef65a9e786256d22693575497975139b",
-    "size": 22610958,
+    "sha256": "cc3b1d0516a64e418948e0e74ec1154026bf5beb372289cb40ee36e4e19d0dfc",
+    "size": 22614262,
     "notes": ""
   }
 }
