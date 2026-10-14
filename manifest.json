@@ -268,6 +268,2943 @@
       ]
     },
     {
+      "name": "Forge 1.20.1 Techo Explore",
+      "version": "1.0",
+      "description": "Explore and Farm",
+      "minecraft": "1.20.1",
+      "loader": "forge",
+      "loader_version": null,
+      "memory_mb": 16384,
+      "server": "",
+      "managed_dirs": [
+        "mods"
+      ],
+      "user_files": [
+        "options.txt",
+        "config/*"
+      ],
+      "jvm_args": [],
+      "id": "Explore Techno Build 1.20.1",
+      "files": [
+        {
+          "path": "mods/API-Bookshelf-Forge-1.20.1-20.2.13.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-Bookshelf-Forge-1.20.1-20.2.13.jar",
+          "sha1": "c53d9eb5ce9e8ef0f2ea9b11e478d84ce958c3e5",
+          "size": 343962
+        },
+        {
+          "path": "mods/API-Corgilib-Forge-1.20.1-4.0.3.3.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-Corgilib-Forge-1.20.1-4.0.3.3.jar",
+          "sha1": "d16e759524a44d4aeaaeeab15ac2e687175af209",
+          "size": 360624
+        },
+        {
+          "path": "mods/API-CraterLib-Forge-1.20-2.1.3.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-CraterLib-Forge-1.20-2.1.3.jar",
+          "sha1": "794d3ed28f9dcfce798f978c26e84a70eb093eb4",
+          "size": 2006600
+        },
+        {
+          "path": "mods/API-CreativeCore_FORGE_v2.12.31_mc1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-CreativeCore_FORGE_v2.12.31_mc1.20.1.jar",
+          "sha1": "0a4331b9670a3ad2467aac1d766d12cb9c0d4629",
+          "size": 1158550
+        },
+        {
+          "path": "mods/API-GlitchCore-forge-1.20.1-0.0.1.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-GlitchCore-forge-1.20.1-0.0.1.1.jar",
+          "sha1": "1a0aaf7c33b9acb26bf75899a43e8941cac1f6e7",
+          "size": 87550
+        },
+        {
+          "path": "mods/API-Iceberg-1.20.1-forge-1.1.25.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-Iceberg-1.20.1-forge-1.1.25.jar",
+          "sha1": "d551ff55814cfb01403b812459ee5a02b020d87b",
+          "size": 134551
+        },
+        {
+          "path": "mods/API-Kiwi-1.20.1-Forge-11.8.30.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-Kiwi-1.20.1-Forge-11.8.30.jar",
+          "sha1": "0469d08eb4195c6b4f5563c02af6cb8d7cda5758",
+          "size": 1632776
+        },
+        {
+          "path": "mods/API-Necronomicon-Forge-1.6.0+1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-Necronomicon-Forge-1.6.0%2B1.20.1.jar",
+          "sha1": "2ad4ffa0fb087e4467c6f7496d456fc1ac949ebf",
+          "size": 33251
+        },
+        {
+          "path": "mods/API-ObsidianUI-forge-0.2.3+mc1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-ObsidianUI-forge-0.2.3%2Bmc1.20.1.jar",
+          "sha1": "aaa69c42410847ac5d13034fba9d519e0afd0abf",
+          "size": 212286
+        },
+        {
+          "path": "mods/API-OctoLib-FORGE-0.4.2+1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-OctoLib-FORGE-0.4.2%2B1.20.1.jar",
+          "sha1": "d39a7e4d7ebd4e6f427f5c0958b7e2080ba02800",
+          "size": 401032
+        },
+        {
+          "path": "mods/API-Patchouli-1.20.1-84.1-FORGE.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-Patchouli-1.20.1-84.1-FORGE.jar",
+          "sha1": "e91d2e2f251375d647d592b670ea6f310c2554eb",
+          "size": 642711
+        },
+        {
+          "path": "mods/API-Prism-1.20.1-forge-1.0.5.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-Prism-1.20.1-forge-1.0.5.jar",
+          "sha1": "bcb4bbb1052f49ed4fe6e7d5d7f91f68d45c3fe3",
+          "size": 52205
+        },
+        {
+          "path": "mods/API-PuzzlesLib-v8.1.25-1.20.1-Forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-PuzzlesLib-v8.1.25-1.20.1-Forge.jar",
+          "sha1": "89f824435c168d5156cd6aa9e90281bb72dc335c",
+          "size": 1002463
+        },
+        {
+          "path": "mods/API-Searchables-forge-1.20.1-1.0.3.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-Searchables-forge-1.20.1-1.0.3.jar",
+          "sha1": "ed5a23ec30c90fd06b3f1d8140614028e1fafaee",
+          "size": 77732
+        },
+        {
+          "path": "mods/API-SmartBrainLib-forge-1.20.1-1.15.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-SmartBrainLib-forge-1.20.1-1.15.jar",
+          "sha1": "d278b6ca36075c4d097677345a25751f9aeed3c1",
+          "size": 362338
+        },
+        {
+          "path": "mods/API-TerraBlender-forge-1.20.1-3.0.1.7.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-TerraBlender-forge-1.20.1-3.0.1.7.jar",
+          "sha1": "afbb7536bdd5e723688c1eaa38df398fe15d0b18",
+          "size": 107534
+        },
+        {
+          "path": "mods/API-YetAnotherConfigLib-3.6.2+1.20.1-forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-YetAnotherConfigLib-3.6.2%2B1.20.1-forge.jar",
+          "sha1": "044fe3b2bd50d2a00d07bd44a2cbdd677617786e",
+          "size": 1111897
+        },
+        {
+          "path": "mods/API-YungsApi-1.20-Forge-4.0.6.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-YungsApi-1.20-Forge-4.0.6.jar",
+          "sha1": "af584b690f5646c6032002b58abc4591beed3833",
+          "size": 370524
+        },
+        {
+          "path": "mods/API-Zeta-1.0-24.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-Zeta-1.0-24.jar",
+          "sha1": "e261d5550bb66cd6802597b1b33462470e3b8dae",
+          "size": 991472
+        },
+        {
+          "path": "mods/API-almanac-1.20.x-forge-1.0.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-almanac-1.20.x-forge-1.0.2.jar",
+          "sha1": "f0b711df59cd589b088e536ca4134c5e6e73fd58",
+          "size": 15906
+        },
+        {
+          "path": "mods/API-architectury-9.2.14-forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-architectury-9.2.14-forge.jar",
+          "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4",
+          "size": 580602
+        },
+        {
+          "path": "mods/API-balm-forge-1.20.1-7.3.14-all.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-balm-forge-1.20.1-7.3.14-all.jar",
+          "sha1": "c0dd945794c9521c423dbfbac55ae2bc14d52db0",
+          "size": 403390
+        },
+        {
+          "path": "mods/API-bclib-3.0.14.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-bclib-3.0.14.jar",
+          "sha1": "34be724165bfe1207542f26551b10925d099eee1",
+          "size": 2312835
+        },
+        {
+          "path": "mods/API-blueprint-1.20.1-7.1.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-blueprint-1.20.1-7.1.1.jar",
+          "sha1": "9f5653787c8e871bfee462948f2093cf08734c61",
+          "size": 1136146
+        },
+        {
+          "path": "mods/API-botarium-forge-1.20.1-2.3.4.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-botarium-forge-1.20.1-2.3.4.jar",
+          "sha1": "a6928cb03b7c5f81900d3d3c8e8c8f6a89a51a5b",
+          "size": 157633
+        },
+        {
+          "path": "mods/API-caelus-forge-3.2.0+1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-caelus-forge-3.2.0%2B1.20.1.jar",
+          "sha1": "fa834f140bf7dce7b67c29b46cb531f4309d3209",
+          "size": 40125
+        },
+        {
+          "path": "mods/API-cloth-config-11.1.136-forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-cloth-config-11.1.136-forge.jar",
+          "sha1": "c65d07748acc57ceb45d53b3964368b84f34d54f",
+          "size": 1181413
+        },
+        {
+          "path": "mods/API-coroutil-forge-1.20.1-1.3.7.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-coroutil-forge-1.20.1-1.3.7.jar",
+          "sha1": "7f5f0b62a638b6053c95919cbe8c2bea2e0c93d0",
+          "size": 64187
+        },
+        {
+          "path": "mods/API-cristellib-1.1.6-forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-cristellib-1.1.6-forge.jar",
+          "sha1": "524ecf0f93f28be2f5db21d87dd81bdbc1a450e1",
+          "size": 431318
+        },
+        {
+          "path": "mods/API-cupboard-1.20.1-2.7.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-cupboard-1.20.1-2.7.jar",
+          "sha1": "204bc8aa83e8a685f64311b72d55505ab2eca867",
+          "size": 25983
+        },
+        {
+          "path": "mods/API-curios-forge-5.12.1+1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-curios-forge-5.12.1%2B1.20.1.jar",
+          "sha1": "aae5dcf04a670133953839360ad236f0890c0be6",
+          "size": 395966
+        },
+        {
+          "path": "mods/API-curious_armor_stands-1.20-5.1.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-curious_armor_stands-1.20-5.1.0.jar",
+          "sha1": "7c69c82603c4797616fc7f4aed07062dd0afe203",
+          "size": 12526
+        },
+        {
+          "path": "mods/API-duclib-1.20-1.1.4.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-duclib-1.20-1.1.4.jar",
+          "sha1": "5cc919a229f599625aeac7f95d508e4b6b74f936",
+          "size": 157125
+        },
+        {
+          "path": "mods/API-fabric-api-0.92.2+1.11.11+1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-fabric-api-0.92.2%2B1.11.11%2B1.20.1.jar",
+          "sha1": "88d7d65c27ea7999e4f5b040ae1a944c363dc1ce",
+          "size": 3041233
+        },
+        {
+          "path": "mods/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0.jar",
+          "sha1": "4f5b3f0d773c4cc9e79d2f5ede3a637e78737f6d",
+          "size": 7015315
+        },
+        {
+          "path": "mods/API-formations-1.0.3-forge-mc1.20.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-formations-1.0.3-forge-mc1.20.2.jar",
+          "sha1": "07e24930ef82a6d04090124032fedca111e6a8a5",
+          "size": 286447
+        },
+        {
+          "path": "mods/API-framework-forge-1.20.1-0.7.12.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-framework-forge-1.20.1-0.7.12.jar",
+          "sha1": "e8c9dd2b134b8f9516b9428dad351abad97d4e76",
+          "size": 308420
+        },
+        {
+          "path": "mods/API-geckolib-forge-1.20.1-4.7.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-geckolib-forge-1.20.1-4.7.jar",
+          "sha1": "698d4374fb062edf68b93e05f3bf3b5873cdd260",
+          "size": 1004042
+        },
+        {
+          "path": "mods/API-gml-4.0.9-all.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-gml-4.0.9-all.jar",
+          "sha1": "a751a912844f37c84e4d37d273517221964504bb",
+          "size": 11124968
+        },
+        {
+          "path": "mods/API-integrated_api-1.5.1+1.20.1-forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-integrated_api-1.5.1%2B1.20.1-forge.jar",
+          "sha1": "f26d3cd0f80510d478a7f867ee59fe878192e9b0",
+          "size": 683711
+        },
+        {
+          "path": "mods/API-itemfig-1.20.X-0.2.7.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-itemfig-1.20.X-0.2.7.jar",
+          "sha1": "9dd6fa14eef48322aa5d0c15fcb3475fade3bf30",
+          "size": 119446
+        },
+        {
+          "path": "mods/API-konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+          "sha1": "2019d821bed9071daabed43979433a5473ceee49",
+          "size": 625185
+        },
+        {
+          "path": "mods/API-kotlinforforge-4.11.0-all.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-kotlinforforge-4.11.0-all.jar",
+          "sha1": "1fd8acfd75a2be2dc3cdcc7e816482b2e427d6e5",
+          "size": 7193768
+        },
+        {
+          "path": "mods/API-letsdo-forge-1.2.15-forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-letsdo-forge-1.2.15-forge.jar",
+          "sha1": "a261043a45097d861a13a63ebdbb0ca350e06a63",
+          "size": 1440591
+        },
+        {
+          "path": "mods/API-lionfishapi-2.4-Fix.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-lionfishapi-2.4-Fix.jar",
+          "sha1": "b198f38fb27dfc6db490b496d56aa1622d5a5b87",
+          "size": 162767
+        },
+        {
+          "path": "mods/API-lithostitched-forge-1.20.1-1.4.4.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-lithostitched-forge-1.20.1-1.4.4.jar",
+          "sha1": "267f311d84570beadd36d2515e76a9381dee8d88",
+          "size": 469486
+        },
+        {
+          "path": "mods/API-melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+          "sha1": "e0942d396a70c09038e6c2e5e1da6505178249b8",
+          "size": 37178
+        },
+        {
+          "path": "mods/API-midnightlib-forge-1.4.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-midnightlib-forge-1.4.2.jar",
+          "sha1": "9c99369a5b703f428dc31f8e4a1a83fc892bba48",
+          "size": 62156
+        },
+        {
+          "path": "mods/API-moonlight-1.20-2.13.62-forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-moonlight-1.20-2.13.62-forge.jar",
+          "sha1": "2e34107203a0a9f97159e8ffee592fa6f60b6317",
+          "size": 1227828
+        },
+        {
+          "path": "mods/API-owo-lib-0.11.2+1.20.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-owo-lib-0.11.2%2B1.20.jar",
+          "sha1": "be88938ca5df78271e64bc9f85c3575754f33e2a",
+          "size": 905421
+        },
+        {
+          "path": "mods/API-player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-player-animation-lib-forge-1.0.2-rc1%2B1.20.jar",
+          "sha1": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a",
+          "size": 181437
+        },
+        {
+          "path": "mods/API-resourcefulconfig-forge-1.20.1-2.1.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-resourcefulconfig-forge-1.20.1-2.1.2.jar",
+          "sha1": "46825dc0adc36c4b19591bb99f7d856bc2953749",
+          "size": 136630
+        },
+        {
+          "path": "mods/API-resourcefullib-forge-1.20.1-2.1.29.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-resourcefullib-forge-1.20.1-2.1.29.jar",
+          "sha1": "6fc590a7c56a720fec57e290cbb0a106efbb3ffa",
+          "size": 432753
+        },
+        {
+          "path": "mods/API-sophisticatedcore-1.20.1-1.2.22.901.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-sophisticatedcore-1.20.1-1.2.22.901.jar",
+          "sha1": "38e5c9ca563220d03143873f8f354c7d4d48d7f6",
+          "size": 1170972
+        },
+        {
+          "path": "mods/API-structure_gel-1.20.1-2.16.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-structure_gel-1.20.1-2.16.2.jar",
+          "sha1": "ec8c59d2a69eca3249a8da673f572b40b6d59895",
+          "size": 966028
+        },
+        {
+          "path": "mods/API-tcdcommons-3.9.7+fabric-1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-tcdcommons-3.9.7%2Bfabric-1.20.1.jar",
+          "sha1": "3b481ce4e76aade7acf69f03aa6e77ab2085140e",
+          "size": 828250
+        },
+        {
+          "path": "mods/API-valhelsia_core-forge-1.20.1-1.1.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/API-valhelsia_core-forge-1.20.1-1.1.2.jar",
+          "sha1": "5e88feef805d15ffbe3c0918f53d6ed213a7dc6a",
+          "size": 203313
+        },
+        {
+          "path": "mods/AdvancementPlaques-1.20.1-forge-1.6.9.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/AdvancementPlaques-1.20.1-forge-1.6.9.jar",
+          "sha1": "6e7b01db61f9646977bd06e9d85492a667d4a8bd",
+          "size": 208850
+        },
+        {
+          "path": "mods/AmbientSounds_FORGE_v6.1.4_mc1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/AmbientSounds_FORGE_v6.1.4_mc1.20.1.jar",
+          "sha1": "4ed2c5bee5988f40cebef3bbc9dec39ab9096bf1",
+          "size": 83885724
+        },
+        {
+          "path": "mods/Amplified_Nether_1.20.x_v1.2.5.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/Amplified_Nether_1.20.x_v1.2.5.jar",
+          "sha1": "fdbaa791f7fdc089e558979f9f68a4811584d5f7",
+          "size": 97150
+        },
+        {
+          "path": "mods/BetterBlockSounds-1.20.1-0.1.3-forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/BetterBlockSounds-1.20.1-0.1.3-forge.jar",
+          "sha1": "972fdb8da6e1d29add810a6dcd90219dc3a5812d",
+          "size": 14852
+        },
+        {
+          "path": "mods/BetterCombat-FC-Edit-2.4-Forge-1.8.6.1-1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/BetterCombat-FC-Edit-2.4-Forge-1.8.6.1-1.20.1.jar",
+          "sha1": "c31520e39604713a8e17ed7fa44adc62ae36c456",
+          "size": 1109001
+        },
+        {
+          "path": "mods/BetterEnd-4.0.11.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/BetterEnd-4.0.11.jar",
+          "sha1": "e45a7e0c875d32f6c2a441d97595ecb1b0e6b359",
+          "size": 92451254
+        },
+        {
+          "path": "mods/BetterEndCities-1.0.0-1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/BetterEndCities-1.0.0-1.20.1.jar",
+          "sha1": "be5951d1f64cbac1f1d5a60e415f6e7bd90551d4",
+          "size": 81018
+        },
+        {
+          "path": "mods/BetterF3-FC-FIX-7.0.2-Forge-1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/BetterF3-FC-FIX-7.0.2-Forge-1.20.1.jar",
+          "sha1": "f7e67175d71b9f992ab8ee06ef082151dc8ce0cb",
+          "size": 472548
+        },
+        {
+          "path": "mods/BetterStats-3.9.7+fabric-1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/BetterStats-3.9.7%2Bfabric-1.20.1.jar",
+          "sha1": "3fd85b69c3c5d46b23a1aa9327cf7f197b51f6aa",
+          "size": 1046756
+        },
+        {
+          "path": "mods/BetterThirdPerson-Forge-1.20-1.9.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/BetterThirdPerson-Forge-1.20-1.9.0.jar",
+          "sha1": "0b0a3ff3b244fa191b3f9580547071dee46f7276",
+          "size": 61525
+        },
+        {
+          "path": "mods/Betterarcheology-FC-Edit-1.1.9-1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/Betterarcheology-FC-Edit-1.1.9-1.20.1.jar",
+          "sha1": "8a9fe4c3f8d93bc65d9e67d5f54f6ea532c933bc",
+          "size": 881783
+        },
+        {
+          "path": "mods/BiomeParticleWeather-v4.1.0-1.20.1-Forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/BiomeParticleWeather-v4.1.0-1.20.1-Forge.jar",
+          "sha1": "52a1bba94f9bf32ebcdf244da7f8676b4dc0bc2b",
+          "size": 175070
+        },
+        {
+          "path": "mods/BiomesOPlenty-DataPackFix-forge-1.20.1-19.0.0.91.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/BiomesOPlenty-DataPackFix-forge-1.20.1-19.0.0.91.jar",
+          "sha1": "059e11699c41229d52dff2603a171ebd5dc04260",
+          "size": 22297458
+        },
+        {
+          "path": "mods/Boss-Music-Mod-1.20-1.20.6.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/Boss-Music-Mod-1.20-1.20.6.jar",
+          "sha1": "152f59ccbb8a2828a8f22f2ca291bfe3dbf50348",
+          "size": 9013462
+        },
+        {
+          "path": "mods/CameraOverhaul-v2.0.0-forge+mc[1.19.3-1.20.5].jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/CameraOverhaul-v2.0.0-forge%2Bmc%5B1.19.3-1.20.5%5D.jar",
+          "sha1": "eb68c9939a4b1386a423d4afe184c88432575e8f",
+          "size": 134070
+        },
+        {
+          "path": "mods/Caracal-1.20-2.3.3.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/Caracal-1.20-2.3.3.jar",
+          "sha1": "280d48af587be638da582c3db450c8f61bc00cfb",
+          "size": 963077
+        },
+        {
+          "path": "mods/Chimes-v2.0.1-1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/Chimes-v2.0.1-1.20.1.jar",
+          "sha1": "439e82c2e4f2f159996dc158915f20536cd600a9",
+          "size": 12444849
+        },
+        {
+          "path": "mods/Chunky-1.3.146.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/Chunky-1.3.146.jar",
+          "sha1": "0b782d12b4ac3b03a94c28f32e9b2d5587d1dd50",
+          "size": 341451
+        },
+        {
+          "path": "mods/ColdSweat-2.3.12.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/ColdSweat-2.3.12.jar",
+          "sha1": "ef23d55f22050a6da97b5fa50262d6f5de2b8aec",
+          "size": 2134783
+        },
+        {
+          "path": "mods/Connectible_Chains-forge-1.20.1-1.0.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/Connectible_Chains-forge-1.20.1-1.0.0.jar",
+          "sha1": "57ddefa42baa34175d2da8e20a5fc818bfec8a4a",
+          "size": 173064
+        },
+        {
+          "path": "mods/Connector-1.0.0-beta.46+1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/Connector-1.0.0-beta.46%2B1.20.1.jar",
+          "sha1": "4c65f7cec969cb6c2e39d0b06c9be28e72fe370d",
+          "size": 5043384
+        },
+        {
+          "path": "mods/ConnectorExtras-fix-1.11.2+1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/ConnectorExtras-fix-1.11.2%2B1.20.1.jar",
+          "sha1": "66c5f1b470ce90cbf30edf7735ae2c89466ab4e0",
+          "size": 167809
+        },
+        {
+          "path": "mods/Controlling-forge-1.20.1-12.0.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/Controlling-forge-1.20.1-12.0.2.jar",
+          "sha1": "f6d3cdd3ec68c5590cf5b2e89c38dbf031824bfd",
+          "size": 115280
+        },
+        {
+          "path": "mods/CreateAdd-ad_astra_compat-forge-1.20.1-1.0.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/CreateAdd-ad_astra_compat-forge-1.20.1-1.0.0.jar",
+          "sha1": "348f8477b3af519b250e65efbaec8a743c6b89d2",
+          "size": 23401
+        },
+        {
+          "path": "mods/CreateAdd-bop_create_mod_rose_quartz-1.0.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/CreateAdd-bop_create_mod_rose_quartz-1.0.0.jar",
+          "sha1": "fc203e4742173e6a5d18d865367a4f561c54a1e2",
+          "size": 5631
+        },
+        {
+          "path": "mods/CreateAdd-central_kitchen-1.20.1-for-create-0.5.1.f-1.3.12.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/CreateAdd-central_kitchen-1.20.1-for-create-0.5.1.f-1.3.12.jar",
+          "sha1": "d7d41b6e3452d1049328204dabc66590f4f79844",
+          "size": 871757
+        },
+        {
+          "path": "mods/CreateAdd-confectionery1.20.1_v1.1.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/CreateAdd-confectionery1.20.1_v1.1.0.jar",
+          "sha1": "75b39587e643a2af31e5d0db822a94aaa5d13f08",
+          "size": 2123089
+        },
+        {
+          "path": "mods/CreateAdd-copycats-FC-Fix-2.1.4+mc.1.20.1-forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/CreateAdd-copycats-FC-Fix-2.1.4%2Bmc.1.20.1-forge.jar",
+          "sha1": "f0754cc09aab9d7129cc60c78d562901a9654641",
+          "size": 1727539
+        },
+        {
+          "path": "mods/CreateAdd-createbigcannons-5.8.2-mc.1.20.1-forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/CreateAdd-createbigcannons-5.8.2-mc.1.20.1-forge.jar",
+          "sha1": "9e5418f72c4138c4e6bfc2ca848e64ee61ab5445",
+          "size": 4053590
+        },
+        {
+          "path": "mods/CreateAdd-deco-2.0.2-1.20.1-forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/CreateAdd-deco-2.0.2-1.20.1-forge.jar",
+          "sha1": "d71a351ac1ff86bbc80da90119fd59670e5adb1a",
+          "size": 3799502
+        },
+        {
+          "path": "mods/CreateAdd-dieselgenerators-1.20.1-1.2i.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/CreateAdd-dieselgenerators-1.20.1-1.2i.jar",
+          "sha1": "7f626b7ddd79bd1abf90bf816c67c674ac111e22",
+          "size": 1943145
+        },
+        {
+          "path": "mods/CreateAdd-dyn-light-forge1.20.1+1.0.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/CreateAdd-dyn-light-forge1.20.1%2B1.0.2.jar",
+          "sha1": "3c740353448b4bd21e1d0ae1bf919c6fc4ee4855",
+          "size": 143206
+        },
+        {
+          "path": "mods/CreateAdd-dynamicvillage-v0.4-1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/CreateAdd-dynamicvillage-v0.4-1.20.1.jar",
+          "sha1": "50286eccc1f5ace423fe3e334f2f33cd73892101",
+          "size": 202805
+        },
+        {
+          "path": "mods/CreateAdd-easy_structures-0.1.3-forge-1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/CreateAdd-easy_structures-0.1.3-forge-1.20.1.jar",
+          "sha1": "9a0911499c7e0a1d977559ae52223840360e3b51",
+          "size": 377263
+        },
+        {
+          "path": "mods/CreateAdd-interiors-0.5.6+forge-mc1.20.1-build.104.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/CreateAdd-interiors-0.5.6%2Bforge-mc1.20.1-build.104.jar",
+          "sha1": "fe4c41e125f01e64c4ac08a8b201abaea98f1a95",
+          "size": 591437
+        },
+        {
+          "path": "mods/CreateAdd-misc_and_things_ 1.20.1_4.0A.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/CreateAdd-misc_and_things_%201.20.1_4.0A.jar",
+          "sha1": "c5a6e8ec10bca9c349698afade327ecc3fbbdf17",
+          "size": 1014347
+        },
+        {
+          "path": "mods/CreateAdd-new-age-forge-1.20.1-1.1.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/CreateAdd-new-age-forge-1.20.1-1.1.2.jar",
+          "sha1": "92fcbc49d41a4d1b2038b469154a4c36e3934e36",
+          "size": 663575
+        },
+        {
+          "path": "mods/CreateAdd-newagealexscaves-1.20.1-1.0.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/CreateAdd-newagealexscaves-1.20.1-1.0.0.jar",
+          "sha1": "c41151be1fed6519383dc61b4edcaeeca446b79b",
+          "size": 137109
+        },
+        {
+          "path": "mods/CreateAdd-power_loader-1.5.0-mc1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/CreateAdd-power_loader-1.5.0-mc1.20.1.jar",
+          "sha1": "675e2e8ee851d5d4a231af4a9746d6fd7315fc0a",
+          "size": 222196
+        },
+        {
+          "path": "mods/CreateAdd-sliceanddice-forge-3.3.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/CreateAdd-sliceanddice-forge-3.3.0.jar",
+          "sha1": "c144c8656ed8814ab13b741f5e74b0a7bcbaba8b",
+          "size": 1021924
+        },
+        {
+          "path": "mods/CreateAdd-stuff-additions1.20.1_v2.0.8.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/CreateAdd-stuff-additions1.20.1_v2.0.8.jar",
+          "sha1": "bc2e1eda54e1e26312fb92b79ca1474d65df4c2b",
+          "size": 1350638
+        },
+        {
+          "path": "mods/CreateAdd-tweaked_controllers-1.20.1-1.2.4.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/CreateAdd-tweaked_controllers-1.20.1-1.2.4.jar",
+          "sha1": "2c25af9cadb9a693a98df728155195fe2d00c968",
+          "size": 297856
+        },
+        {
+          "path": "mods/CreateAdd-vintageimprovements-1.20.1-0.2.0.3.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/CreateAdd-vintageimprovements-1.20.1-0.2.0.3.jar",
+          "sha1": "7a0f9807a148ae1a433149ef88c5c6dd4ed93d5a",
+          "size": 1382006
+        },
+        {
+          "path": "mods/CreteAdd-Steam_Rails-1.6.7+forge-mc1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/CreteAdd-Steam_Rails-1.6.7%2Bforge-mc1.20.1.jar",
+          "sha1": "c8d519c1d487e4cf05eadcacf54938530a3a3f1b",
+          "size": 9807400
+        },
+        {
+          "path": "mods/DiagonalFences-v8.1.5-1.20.1-Forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/DiagonalFences-v8.1.5-1.20.1-Forge.jar",
+          "sha1": "3c3266729f531939a9aba47e28fe910875a78755",
+          "size": 182476
+        },
+        {
+          "path": "mods/DiagonalWalls-v8.0.4-1.20.1-Forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/DiagonalWalls-v8.0.4-1.20.1-Forge.jar",
+          "sha1": "cada35009f4f268d1685be9ce888b610b1ae607d",
+          "size": 173567
+        },
+        {
+          "path": "mods/DistantHorizons-fabric-forge-2.3.2-b-1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/DistantHorizons-fabric-forge-2.3.2-b-1.20.1.jar",
+          "sha1": "57a3a0105c51fdeb7d4a79a35cd8a16586917cf4",
+          "size": 17830252
+        },
+        {
+          "path": "mods/DixtasArmory-FC-FIX-1.1.4-1.20.1-beta.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/DixtasArmory-FC-FIX-1.1.4-1.20.1-beta.jar",
+          "sha1": "b96f2d4d40ea98419dd699dca9863f6a2b3d0d52",
+          "size": 352860
+        },
+        {
+          "path": "mods/EasyAnvils-v8.0.2-1.20.1-Forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/EasyAnvils-v8.0.2-1.20.1-Forge.jar",
+          "sha1": "d44a8b549b27713a92d59148729bf374ff3e25f0",
+          "size": 141744
+        },
+        {
+          "path": "mods/EasyMagic-v8.0.1-1.20.1-Forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/EasyMagic-v8.0.1-1.20.1-Forge.jar",
+          "sha1": "9bfb5d63ac2e03ecdab8755c968ffa25b799469b",
+          "size": 115947
+        },
+        {
+          "path": "mods/EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar",
+          "sha1": "7cb8e1242d058c9800e1f3f886930647de7f44e1",
+          "size": 69476
+        },
+        {
+          "path": "mods/Enhanced-Celestials-Forge-1.20.1-5.0.2.3.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/Enhanced-Celestials-Forge-1.20.1-5.0.2.3.jar",
+          "sha1": "e0014d4068c7ab5d5a8cc53d37f2cdfbcc0935c7",
+          "size": 1635548
+        },
+        {
+          "path": "mods/EntityTextureFeatures-Forge-1.20.1-6.2.9-FC-Edit.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/EntityTextureFeatures-Forge-1.20.1-6.2.9-FC-Edit.jar",
+          "sha1": "07297b0a6765d28ef1997f24ef8415cb76db7ec9",
+          "size": 674737
+        },
+        {
+          "path": "mods/FD-AlexsDelight-1.5.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/FD-AlexsDelight-1.5.jar",
+          "sha1": "ef7049ba6f16df22c8d98dd4dad2d9dc2aa6b6ba",
+          "size": 55398
+        },
+        {
+          "path": "mods/FD-Delightful-1.20.1-3.5.5.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/FD-Delightful-1.20.1-3.5.5.jar",
+          "sha1": "a84485f85e6e04d7e52f7f6b6624d7f92414707e",
+          "size": 1164911
+        },
+        {
+          "path": "mods/FD-EndersDelight-1.20.1-1.0.3.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/FD-EndersDelight-1.20.1-1.0.3.jar",
+          "sha1": "cd55aa2b34b27fe89ca5eb4a841d187d25afea7d",
+          "size": 118584
+        },
+        {
+          "path": "mods/FD-MinersDelight-1.20.1-1.2.3.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/FD-MinersDelight-1.20.1-1.2.3.jar",
+          "sha1": "817ab785307e34895900fa23ce9d5dc4ee8eadf5",
+          "size": 474112
+        },
+        {
+          "path": "mods/FD-MyNethersDelight-1.20.1-0.1.7.5.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/FD-MyNethersDelight-1.20.1-0.1.7.5.jar",
+          "sha1": "1686341313529a17b9187955f241c70d9d307c33",
+          "size": 691600
+        },
+        {
+          "path": "mods/FD-QuarkDelight_1.0.0_forge_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/FD-QuarkDelight_1.0.0_forge_1.20.1.jar",
+          "sha1": "06e0c415a201f80969fdf8ff0eb1f07c8c7a5751",
+          "size": 72096
+        },
+        {
+          "path": "mods/FD-abnormals_delight-1.20.1-5.0.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/FD-abnormals_delight-1.20.1-5.0.0.jar",
+          "sha1": "14e9b7d375c793e39cc358a5b805976dfeee8f60",
+          "size": 612510
+        },
+        {
+          "path": "mods/FD-chefs-delight-1.0.3-forge-1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/FD-chefs-delight-1.0.3-forge-1.20.1.jar",
+          "sha1": "925438510f375829e87bca0279bd724eca67189e",
+          "size": 83407
+        },
+        {
+          "path": "mods/FD-fruitsdelight-1.0.16.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/FD-fruitsdelight-1.0.16.jar",
+          "sha1": "a2690218e775f783b570c774329928e5d183c9b3",
+          "size": 1878437
+        },
+        {
+          "path": "mods/FD-storagedelight-24.12.15-1.20-forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/FD-storagedelight-24.12.15-1.20-forge.jar",
+          "sha1": "827ebcb81654fde5b3d5c56531ad94be5f849d61",
+          "size": 373507
+        },
+        {
+          "path": "mods/FIX-BetterCompatibilityChecker-forge-4.0.8mc1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/FIX-BetterCompatibilityChecker-forge-4.0.8mc1.20.1.jar",
+          "sha1": "c5407cfd0b38d8db6d6f1c0088397f4c5616c7ae",
+          "size": 26540
+        },
+        {
+          "path": "mods/FIX-blueprintfix-forge-1.0.0-1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/FIX-blueprintfix-forge-1.0.0-1.20.1.jar",
+          "sha1": "95568c3ffac58b666d444c182a2662e1ac8288c9",
+          "size": 363228
+        },
+        {
+          "path": "mods/FIX-letmedespawn-1.20.x-forge-1.4.4.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/FIX-letmedespawn-1.20.x-forge-1.4.4.jar",
+          "sha1": "f776aad2602b3e37d4c01fac393c0a6461f0c524",
+          "size": 13521
+        },
+        {
+          "path": "mods/FIX-modelfix-1.15.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/FIX-modelfix-1.15.jar",
+          "sha1": "5bdda0781bf9dfb5f992a7aa2bee64d5d3fe0b84",
+          "size": 45246
+        },
+        {
+          "path": "mods/FIX-netherportalfix-forge-1.20-13.0.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/FIX-netherportalfix-forge-1.20-13.0.1.jar",
+          "sha1": "b110e4590177475dcde70dd9dafd5257116ad9f8",
+          "size": 217831
+        },
+        {
+          "path": "mods/FIX-packetfixer-forge-1.4.5-1.19-to-1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/FIX-packetfixer-forge-1.4.5-1.19-to-1.20.1.jar",
+          "sha1": "f824a71dc99c1d72b14d2d3a4c9b459c0c91bfc2",
+          "size": 20412
+        },
+        {
+          "path": "mods/FIX-sparsestructures-fabric-1.20.1-2.2.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/FIX-sparsestructures-fabric-1.20.1-2.2.0.jar",
+          "sha1": "a1042663daefadf0378f92fcbe11ae6b4d17e650",
+          "size": 119433
+        },
+        {
+          "path": "mods/FIX-wither_spawn_fix-1.0.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/FIX-wither_spawn_fix-1.0.0.jar",
+          "sha1": "0279450eaa9c0d6a5b4909a84361c0b11b34b39d",
+          "size": 4634
+        },
+        {
+          "path": "mods/FarmersDelight-1.20.1-1.2.7.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/FarmersDelight-1.20.1-1.2.7.jar",
+          "sha1": "0e614a93c6520d7b4e6714ba110daa416f07c716",
+          "size": 2954263
+        },
+        {
+          "path": "mods/Feathers-1.1-FC-edit.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/Feathers-1.1-FC-edit.jar",
+          "sha1": "13e7476d33a197485ea7215f653cbc2c14b8d0d2",
+          "size": 124742
+        },
+        {
+          "path": "mods/Galosphere-1.20.1-1.3.2-Forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/Galosphere-1.20.1-1.3.2-Forge.jar",
+          "sha1": "31f8b9e55f3117ae01190713af346d1a98facc60",
+          "size": 12063537
+        },
+        {
+          "path": "mods/GeophilicReforged-v1.2.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/GeophilicReforged-v1.2.0.jar",
+          "sha1": "412650ce355803e91d54ad8c44cdcf8857c09e2a",
+          "size": 381424
+        },
+        {
+          "path": "mods/Grapes-BossDifficulty-1.20.1-Forge-1.4.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/Grapes-BossDifficulty-1.20.1-Forge-1.4.2.jar",
+          "sha1": "acc4550d15cba0b4f87f62159eee915d21dfe3e3",
+          "size": 21713
+        },
+        {
+          "path": "mods/Grapes-Essential-1.20.1-Forge-1.3.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/Grapes-Essential-1.20.1-Forge-1.3.jar",
+          "sha1": "ef553bd442e4f20b4b71b3d5a5b55c4e62b4ea80",
+          "size": 18594
+        },
+        {
+          "path": "mods/GrapesLegacyStuff-1.1-Forge-1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/GrapesLegacyStuff-1.1-Forge-1.20.1.jar",
+          "sha1": "76fd13af52640b934b9cc40b44aabc7dec4cb8c6",
+          "size": 111329
+        },
+        {
+          "path": "mods/GrapesLocks-1.3.9-Forge-1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/GrapesLocks-1.3.9-Forge-1.20.1.jar",
+          "sha1": "0463ae01e1530c231f5ad4a05668db53e1d5cc18",
+          "size": 166677
+        },
+        {
+          "path": "mods/GrapesTorchesLogic-Forge-1.15.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/GrapesTorchesLogic-Forge-1.15.jar",
+          "sha1": "e3da290db2253f4ea3d5f97a58952d6966356470",
+          "size": 30742
+        },
+        {
+          "path": "mods/Grapes_AntiqueAtlas-9.0.2-forge-mc1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/Grapes_AntiqueAtlas-9.0.2-forge-mc1.20.1.jar",
+          "sha1": "2de54ff896cbf7145d416bf112acff98d527f4d0",
+          "size": 1307373
+        },
+        {
+          "path": "mods/Grapes_Armor_Logic-1.1-all.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/Grapes_Armor_Logic-1.1-all.jar",
+          "sha1": "fdc1f1f4055059325eaf116a24a04d094bdb628e",
+          "size": 183747
+        },
+        {
+          "path": "mods/Grapes_Better_WorldLoading_Screen-Forge-1.20.1-1.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/Grapes_Better_WorldLoading_Screen-Forge-1.20.1-1.2.jar",
+          "sha1": "d94e8f452a25bf3cd6cfa03d407f1d9aadad7f0d",
+          "size": 1171535
+        },
+        {
+          "path": "mods/Grapes_Capitalism_Craft-[Forge]-1.20.1-1.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/Grapes_Capitalism_Craft-%5BForge%5D-1.20.1-1.2.jar",
+          "sha1": "8780208dd5b8351cca858b2d292b59677f265472",
+          "size": 291884
+        },
+        {
+          "path": "mods/Grapes_I_Said_TRANSLATE_BLYAT-1-all.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/Grapes_I_Said_TRANSLATE_BLYAT-1-all.jar",
+          "sha1": "89b744450d887e1c4c75392659f0d3c608c95332",
+          "size": 172781
+        },
+        {
+          "path": "mods/Grapes_ImmortalAdvancements-1.20.1-Forge-1.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/Grapes_ImmortalAdvancements-1.20.1-Forge-1.1.jar",
+          "sha1": "9505a578174d5d318bd8d3dde1819548df8dfeb6",
+          "size": 30613
+        },
+        {
+          "path": "mods/Grapes_Royal_Variations-[Forge]-1.20.1-1.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/Grapes_Royal_Variations-%5BForge%5D-1.20.1-1.2.jar",
+          "sha1": "f7fba4ae984d4dd512a4b8800c94510477def968",
+          "size": 305868
+        },
+        {
+          "path": "mods/Grapes_SeasonStuff-1.4.2-Forge-1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/Grapes_SeasonStuff-1.4.2-Forge-1.20.1.jar",
+          "sha1": "d78d233816cafad28429aea088398816d5be0f1b",
+          "size": 397166
+        },
+        {
+          "path": "mods/Grapes_SeasonalFauna-[Forge]-1.20.1-1.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/Grapes_SeasonalFauna-%5BForge%5D-1.20.1-1.2.jar",
+          "sha1": "bf045b35c319af55d55b597f36861570d338202c",
+          "size": 347076
+        },
+        {
+          "path": "mods/Highlighter-1.20.1-forge-1.1.9.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/Highlighter-1.20.1-forge-1.1.9.jar",
+          "sha1": "644dc33b1745ad100f513b4d169ace86fff3b2bf",
+          "size": 29438
+        },
+        {
+          "path": "mods/ImmersiveUI-FORGE-0.3.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/ImmersiveUI-FORGE-0.3.0.jar",
+          "sha1": "b2b36a49f1b8daf8d8fc0521f532fb706649c09c",
+          "size": 401514
+        },
+        {
+          "path": "mods/Item-Obliterator-NeoForge-MC1.20.1-2.3.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/Item-Obliterator-NeoForge-MC1.20.1-2.3.1.jar",
+          "sha1": "d8fa4e840a3d60f2172de0584d804d0bf7e6db19",
+          "size": 22930
+        },
+        {
+          "path": "mods/ItemBorders-1.20.1-forge-1.2.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/ItemBorders-1.20.1-forge-1.2.2.jar",
+          "sha1": "cf42466689489348e1e3a5df00d2ce6c65dd978a",
+          "size": 20832
+        },
+        {
+          "path": "mods/ItemPhysic_FORGE_v1.8.4_mc1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/ItemPhysic_FORGE_v1.8.4_mc1.20.1.jar",
+          "sha1": "6a62111ed24b48e0c3f4365566e65af0fe8c2ebd",
+          "size": 53321
+        },
+        {
+          "path": "mods/Kaffee's_Dual_Ride-mc1.20.1-1.1.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/Kaffee%27s_Dual_Ride-mc1.20.1-1.1.0.jar",
+          "sha1": "e5543b1ec6e7e10ebc49cbdc77729f72c0694e58",
+          "size": 45431
+        },
+        {
+          "path": "mods/Kobolds-2.12.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/Kobolds-2.12.0.jar",
+          "sha1": "27a2ddc3207ed9d1ff00337f8b5aa36a5063f758",
+          "size": 2435938
+        },
+        {
+          "path": "mods/L_Enders_Cataclysm-2.53- 1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/L_Enders_Cataclysm-2.53-%201.20.1.jar",
+          "sha1": "956657c66ae07fbfd5761f6cc693127e9d22f5ba",
+          "size": 72151578
+        },
+        {
+          "path": "mods/LetsDo-Brewery-FC-EDIT-Forge-1.20.1-1.1.9.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/LetsDo-Brewery-FC-EDIT-Forge-1.20.1-1.1.9.jar",
+          "sha1": "a4582b0b5f0673615fbdde018331b8ae17fc2a23",
+          "size": 2228892
+        },
+        {
+          "path": "mods/LetsDo-HerbalBrews-FC-EDIT-Forge-1.20.1-1.0.8.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/LetsDo-HerbalBrews-FC-EDIT-Forge-1.20.1-1.0.8.1.jar",
+          "sha1": "ea61678b7532cd3e618dba4f26654b0ae4c71dae",
+          "size": 674642
+        },
+        {
+          "path": "mods/LetsDo-Vinery-forge-1.4.38.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/LetsDo-Vinery-forge-1.4.38.jar",
+          "sha1": "3f3125cc3e7379b4f3d9682d24d91c34e1d782a6",
+          "size": 3173866
+        },
+        {
+          "path": "mods/LetsDo-addon-compat-FC-Fix-forge-1.4.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/LetsDo-addon-compat-FC-Fix-forge-1.4.2.jar",
+          "sha1": "8057e7d26f30dd2aec65de1ab63d016c3fc661ae",
+          "size": 1017946
+        },
+        {
+          "path": "mods/Medieval-End-forge-1.0.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/Medieval-End-forge-1.0.1.jar",
+          "sha1": "11e2b53ec5c85ee01fe689ea9ebd695ee0ceb299",
+          "size": 169369
+        },
+        {
+          "path": "mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+          "sha1": "d751153e722a4e014691c83f39f5b07c6ec5333c",
+          "size": 76237
+        },
+        {
+          "path": "mods/OPT-BadOptimizations-2.2.1-1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/OPT-BadOptimizations-2.2.1-1.20.1.jar",
+          "sha1": "5f7a3dcc4ecb52a028ea4ee2010f81465544319e",
+          "size": 439771
+        },
+        {
+          "path": "mods/OPT-FpsReducer2-forge-1.20-2.5.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/OPT-FpsReducer2-forge-1.20-2.5.jar",
+          "sha1": "d7d5af20faa2bd7012aa2d34b5804324aa273092",
+          "size": 125347
+        },
+        {
+          "path": "mods/OPT-ImmediatelyFast-Forge-1.3.4+1.20.4.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/OPT-ImmediatelyFast-Forge-1.3.4%2B1.20.4.jar",
+          "sha1": "b9304ba321c3c841043773c5cc91c90dcc8eb2c1",
+          "size": 449313
+        },
+        {
+          "path": "mods/OPT-Neruina-2.1.2-forge+1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/OPT-Neruina-2.1.2-forge%2B1.20.1.jar",
+          "sha1": "a02a8ccd580ba3c37ba26ff19cf35b221ae2a073",
+          "size": 3086403
+        },
+        {
+          "path": "mods/OPT-SERVER-Icterine-forge-1.20.0-1-1.3.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/OPT-SERVER-Icterine-forge-1.20.0-1-1.3.0.jar",
+          "sha1": "55fde23d7602924ba4772d441fb5a78d562be238",
+          "size": 38848
+        },
+        {
+          "path": "mods/OPT-SERVER-mobtimizations-forge-1.20.1-1.0.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/OPT-SERVER-mobtimizations-forge-1.20.1-1.0.0.jar",
+          "sha1": "1e7de73072e0adc9f09494cd79a79b1db030c293",
+          "size": 22739
+        },
+        {
+          "path": "mods/OPT-SERVER-noisium-forge-2.3.0+mc1.20-1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/OPT-SERVER-noisium-forge-2.3.0%2Bmc1.20-1.20.1.jar",
+          "sha1": "7da1cdf00c0ae5cad31e17f765f6ea021c8ac808",
+          "size": 218152
+        },
+        {
+          "path": "mods/OPT-cullleaves-forge-3.2.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/OPT-cullleaves-forge-3.2.0.jar",
+          "sha1": "0d5766cc1fa3c4262b2ebb88f28275149c29c616",
+          "size": 34986
+        },
+        {
+          "path": "mods/OPT-embeddium-0.3.31+mc1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/OPT-embeddium-0.3.31%2Bmc1.20.1.jar",
+          "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
+          "size": 1320675
+        },
+        {
+          "path": "mods/OPT-embeddiumplus-1.20.1-v1.2.13.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/OPT-embeddiumplus-1.20.1-v1.2.13.jar",
+          "sha1": "d922515ae0f16af2afdddfd72243a4890a2c7ad8",
+          "size": 895427
+        },
+        {
+          "path": "mods/OPT-entityculling-forge-1.7.2-mc1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/OPT-entityculling-forge-1.7.2-mc1.20.1.jar",
+          "sha1": "fafd5e44573df4b7842243fcfcb05dfbd85ad5e5",
+          "size": 73584
+        },
+        {
+          "path": "mods/OPT-ferritecore-6.0.1-forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/OPT-ferritecore-6.0.1-forge.jar",
+          "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
+          "size": 123034
+        },
+        {
+          "path": "mods/OPT-modernfix-forge-5.20.2+mc1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/OPT-modernfix-forge-5.20.2%2Bmc1.20.1.jar",
+          "sha1": "23d49f71d56de4fdb8ec046507a42c48594daadb",
+          "size": 821631
+        },
+        {
+          "path": "mods/OPT-particle_core-0.2.5+1.20.1+forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/OPT-particle_core-0.2.5%2B1.20.1%2Bforge.jar",
+          "sha1": "d791c2000b0985bdef906db93b9313319ac47aba",
+          "size": 95351
+        },
+        {
+          "path": "mods/OPT-radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/OPT-radium-mc1.20.1-0.12.4%2Bgit.26c9d8e.jar",
+          "sha1": "f5f5f792473bb7b85ec221f75c5afb3740afb13a",
+          "size": 713454
+        },
+        {
+          "path": "mods/OPT-smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/OPT-smoothboot%28reloaded%29-mc1.20.1-0.0.4.jar",
+          "sha1": "3fd79132dba444bd109b5de4ad75dee06a48e130",
+          "size": 41044
+        },
+        {
+          "path": "mods/Obscure-Tooltips-2.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/Obscure-Tooltips-2.2.jar",
+          "sha1": "8cc7c31f79a11bef3d5cc69b1740f07d5adbfc96",
+          "size": 91788
+        },
+        {
+          "path": "mods/OpenLoader-Forge-1.20.1-19.0.4.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/OpenLoader-Forge-1.20.1-19.0.4.jar",
+          "sha1": "13ee67dace2825fc593bf2bc1e44f8b4122a557d",
+          "size": 23938
+        },
+        {
+          "path": "mods/PickUpNotifier-v8.0.0-1.20.1-Forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/PickUpNotifier-v8.0.0-1.20.1-Forge.jar",
+          "sha1": "378cc9730d1f11cd4c50add96263baccacdb4942",
+          "size": 102164
+        },
+        {
+          "path": "mods/PlayerRevive_FORGE_v2.0.25-FC-Edit_mc1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/PlayerRevive_FORGE_v2.0.25-FC-Edit_mc1.20.1.jar",
+          "sha1": "d8ebd5349c52f3c498a934186b9286bec2dad0d5",
+          "size": 5298123
+        },
+        {
+          "path": "mods/PresenceFootsteps-1.20.1-1.9.1-beta.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/PresenceFootsteps-1.20.1-1.9.1-beta.1.jar",
+          "sha1": "6ccb76043763f929a11f1857a57b41bb70ab7512",
+          "size": 7080698
+        },
+        {
+          "path": "mods/Quark-4.0-460.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/Quark-4.0-460.jar",
+          "sha1": "adaad8ac67cc27fa722536e5a1bf97f84a7b7543",
+          "size": 14681644
+        },
+        {
+          "path": "mods/RegionsUnexploredForge-0.5.6+1.20.1-naher-redstone-hell.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/RegionsUnexploredForge-0.5.6%2B1.20.1-naher-redstone-hell.jar",
+          "sha1": "0ac341d1da52ae92aa104f531364cc2559631073",
+          "size": 5260942
+        },
+        {
+          "path": "mods/RyoamicLights-forge-0.2.3+mc1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/RyoamicLights-forge-0.2.3%2Bmc1.20.1.jar",
+          "sha1": "1850d6b47b39ed439c8e9f85caf6cbe88df817c3",
+          "size": 160055
+        },
+        {
+          "path": "mods/ShieldExpansion-1.20.1-1.1.7a-FC-FIX.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/ShieldExpansion-1.20.1-1.1.7a-FC-FIX.jar",
+          "sha1": "7c68dce8ce49079e49233013c704fc0921afec29",
+          "size": 290561
+        },
+        {
+          "path": "mods/SimpleRPC-Universal-3.3.3.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/SimpleRPC-Universal-3.3.3.jar",
+          "sha1": "4cb2036d2f29f62a6832d3d45e36485caf8532f2",
+          "size": 214943
+        },
+        {
+          "path": "mods/SmoothScrollingRefurbished+1.20-1.1.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/SmoothScrollingRefurbished%2B1.20-1.1.2.jar",
+          "sha1": "25106afe4000969fd14e0ee70243138e746872b4",
+          "size": 10563
+        },
+        {
+          "path": "mods/Sn0wfrogs_Capybaras-FC-Edit-1.1.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/Sn0wfrogs_Capybaras-FC-Edit-1.1.0.jar",
+          "sha1": "5dfcdc724460cc963640c752fc39e1c3d5a2b460",
+          "size": 389726
+        },
+        {
+          "path": "mods/SomeAdd-armordamagescale-1.20.1-3.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/SomeAdd-armordamagescale-1.20.1-3.1.jar",
+          "sha1": "968bdbbe1e5ce94dd694b97fc57f9a76ed879856",
+          "size": 110357
+        },
+        {
+          "path": "mods/SomeAdd-betterfpsdist-1.20.1-6.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/SomeAdd-betterfpsdist-1.20.1-6.0.jar",
+          "sha1": "4042cd320558e8d99d82994cc84ae8e0822de98e",
+          "size": 19844
+        },
+        {
+          "path": "mods/SomeAdd-clickadv-1.20.1-3.8.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/SomeAdd-clickadv-1.20.1-3.8.jar",
+          "sha1": "a348e4418676ed8b1ffea6c54755f1ee8656f559",
+          "size": 16295
+        },
+        {
+          "path": "mods/SomeAdd-dragonfight-1.20.1-4.6.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/SomeAdd-dragonfight-1.20.1-4.6.jar",
+          "sha1": "8eea2b3f3f1012670ce11d198b039306f47655ca",
+          "size": 36083
+        },
+        {
+          "path": "mods/SomeAdd-lootintegrations-1.20.1-4.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/SomeAdd-lootintegrations-1.20.1-4.0.jar",
+          "sha1": "7f215fb7071163b470ca2a17079f7871ed76062b",
+          "size": 23187
+        },
+        {
+          "path": "mods/SomeAdd-lootintegrations_betterarcheology-1.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/SomeAdd-lootintegrations_betterarcheology-1.2.jar",
+          "sha1": "3f4b21264d80964e94d58c5d39133b4381792d89",
+          "size": 5826
+        },
+        {
+          "path": "mods/SomeAdd-lootintegrations_dungeonsenhanced-1.5.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/SomeAdd-lootintegrations_dungeonsenhanced-1.5.jar",
+          "sha1": "2c6ef8c9b3088e5fec4d60a5cf4e812cbc004e70",
+          "size": 5770
+        },
+        {
+          "path": "mods/SomeAdd-lootintegrations_yungs-1.3.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/SomeAdd-lootintegrations_yungs-1.3.jar",
+          "sha1": "5729273d332d19b11d48b89630620108b20c2ff1",
+          "size": 5942
+        },
+        {
+          "path": "mods/SomeAdd-recipeessentials-1.20.1-4.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/SomeAdd-recipeessentials-1.20.1-4.0.jar",
+          "sha1": "6e50995efefdef6f77f0289200a17ae4c18cde75",
+          "size": 50739
+        },
+        {
+          "path": "mods/SomeAdd-shieldmechanics-1.20.1-4.4.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/SomeAdd-shieldmechanics-1.20.1-4.4.jar",
+          "sha1": "e1a4f12e0108d9508be6273f0e0f09f84eef7fc9",
+          "size": 29889
+        },
+        {
+          "path": "mods/Spelunkers_Charm-3.6.0-1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/Spelunkers_Charm-3.6.0-1.20.1.jar",
+          "sha1": "9148bb02edb26fb1546081c10555cfd204e1c933",
+          "size": 2018943
+        },
+        {
+          "path": "mods/Structory_1.20.x_v1.3.5.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/Structory_1.20.x_v1.3.5.jar",
+          "sha1": "88c1d90ac79c98a50e3e4bd3a93c70431c716dd5",
+          "size": 1286460
+        },
+        {
+          "path": "mods/StylishEffects-v8.0.2-1.20.1-Forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/StylishEffects-v8.0.2-1.20.1-Forge.jar",
+          "sha1": "90f812020dcbbd854d4e3bab25237250f2e5f84e",
+          "size": 127246
+        },
+        {
+          "path": "mods/SubtleEffects-forge-1.20.1-1.8.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/SubtleEffects-forge-1.20.1-1.8.0.jar",
+          "sha1": "b35f93bc782bda7f906326f7fd94940f42a1c089",
+          "size": 1734151
+        },
+        {
+          "path": "mods/Supernatural-FC-Edit-2.12.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/Supernatural-FC-Edit-2.12.1.jar",
+          "sha1": "44bafdb5c6c02ed61eb5535c100b65fda37fffe4",
+          "size": 1056403
+        },
+        {
+          "path": "mods/TravelersTitles-1.20-Forge-4.0.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/TravelersTitles-1.20-Forge-4.0.2.jar",
+          "sha1": "64a435eaa6e08fff5af2c720c3b6a40fe292f2f7",
+          "size": 228191
+        },
+        {
+          "path": "mods/TreeChop-1.20.1-forge-0.19.0-fixed.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/TreeChop-1.20.1-forge-0.19.0-fixed.jar",
+          "sha1": "ac5a20b5a2fd9ed7d6e9a0c033f53307947e5f3f",
+          "size": 517225
+        },
+        {
+          "path": "mods/UpgradeAquatic-FC-Edit-1.20.1-6.0.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/UpgradeAquatic-FC-Edit-1.20.1-6.0.0.jar",
+          "sha1": "1ad9133130eee47ea05d794db9dc923b331566ff",
+          "size": 4855486
+        },
+        {
+          "path": "mods/Valhelsia_Structures-FC-Edit-1.20.1-1.1.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/Valhelsia_Structures-FC-Edit-1.20.1-1.1.2.jar",
+          "sha1": "3b13406c6f73bff741119722c28e4bf3f62229fb",
+          "size": 2546569
+        },
+        {
+          "path": "mods/VisualWorkbench-v8.0.0-1.20.1-Forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/VisualWorkbench-v8.0.0-1.20.1-Forge.jar",
+          "sha1": "7ebf579edcf2440eadf1ed6c8c895e1bc2d77bf1",
+          "size": 82055
+        },
+        {
+          "path": "mods/YeetusExperimentus-Forge-2.3.1-build.6+mc1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/YeetusExperimentus-Forge-2.3.1-build.6%2Bmc1.20.1.jar",
+          "sha1": "6efdaf5d213f779e51aa84631a5f06a306351e75",
+          "size": 568278
+        },
+        {
+          "path": "mods/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
+          "sha1": "b23c82c709ad0d98b90784425a29ce4c6290f110",
+          "size": 911615
+        },
+        {
+          "path": "mods/YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+          "sha1": "67a9e1c2ff126ab54cea8e0709d178915243039e",
+          "size": 792381
+        },
+        {
+          "path": "mods/YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+          "sha1": "4e7bf109981593061b8100bc8bf23e1c9bbcbb76",
+          "size": 387111
+        },
+        {
+          "path": "mods/YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
+          "sha1": "0b3c8556983895fea980247bb4d437ca535e7259",
+          "size": 806652
+        },
+        {
+          "path": "mods/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+          "sha1": "e2cbc574807a994bb9610184eb4bbfe29a6c0774",
+          "size": 492998
+        },
+        {
+          "path": "mods/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+          "sha1": "889cd16a93764d1d6af2e2dda5bbc286a2683e7a",
+          "size": 619255
+        },
+        {
+          "path": "mods/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
+          "sha1": "d8e74ed19903752a97ed0e1d2b1a8bf378bc252f",
+          "size": 1033262
+        },
+        {
+          "path": "mods/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
+          "sha1": "71fee574f920c6b05004f100ba07e9b8d5844169",
+          "size": 179190
+        },
+        {
+          "path": "mods/YungsCaveBiomes-1.20.1-Forge-2.0.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/YungsCaveBiomes-1.20.1-Forge-2.0.1.jar",
+          "sha1": "9c1b90513f289e18e1ca26c3987b5d8c45a133a1",
+          "size": 12935483
+        },
+        {
+          "path": "mods/ad_astra-forge-FC-bookFix-1.20.1-1.15.19.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/ad_astra-forge-FC-bookFix-1.20.1-1.15.19.jar",
+          "sha1": "2b54b4ca9852654bccd429d3c3675bd143586752",
+          "size": 7427559
+        },
+        {
+          "path": "mods/advancementframes-1.20-2.2.7.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/advancementframes-1.20-2.2.7.jar",
+          "sha1": "c87f89d50e050752b61c6d7121bd766842fc0766",
+          "size": 124994
+        },
+        {
+          "path": "mods/alexscaves-2.0.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/alexscaves-2.0.2.jar",
+          "sha1": "a1e5c7b7c7eadda4c8e954acbcbaf75a7b500d53",
+          "size": 74871657
+        },
+        {
+          "path": "mods/alexscaves_torpedoes-1.0.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/alexscaves_torpedoes-1.0.2.jar",
+          "sha1": "f7c7b5ef2954fd5f7a8f3875a1883bc8c8f02c75",
+          "size": 1173231
+        },
+        {
+          "path": "mods/alexsmobs-1.22.9.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/alexsmobs-1.22.9.jar",
+          "sha1": "dbf93d2f1da19e16739e91e8ea0fc6f4bc2f228f",
+          "size": 26350793
+        },
+        {
+          "path": "mods/amendments-1.20-1.2.18.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/amendments-1.20-1.2.18.jar",
+          "sha1": "c9e68c5f2a5d2a12c4726f9d8a9c19523dc08968",
+          "size": 1031019
+        },
+        {
+          "path": "mods/another_furniture-forge-1.20.1-3.0.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/another_furniture-forge-1.20.1-3.0.1.jar",
+          "sha1": "7257a28594012cdd905e581c54bce6749228a016",
+          "size": 2746864
+        },
+        {
+          "path": "mods/arts_and_crafts-forge-1.20.1-1.3.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/arts_and_crafts-forge-1.20.1-1.3.2.jar",
+          "sha1": "eb5b0bbfc6a0f1345ec41ad4b72d7e585008219e",
+          "size": 4184086
+        },
+        {
+          "path": "mods/arts_and_crafts_compat-forge-1.20.1-1.3.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/arts_and_crafts_compat-forge-1.20.1-1.3.1.jar",
+          "sha1": "c3bf5a5147d1b851be908d5abf5624576a762be5",
+          "size": 829291
+        },
+        {
+          "path": "mods/automobility-0.4.2+1.20.1-forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/automobility-0.4.2%2B1.20.1-forge.jar",
+          "sha1": "054a414a2df5119223ec79caf2df521953476492",
+          "size": 1054147
+        },
+        {
+          "path": "mods/autumnity-1.20.1-5.0.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/autumnity-1.20.1-5.0.2.jar",
+          "sha1": "1e74111aba8fe812adf7f2292bd51a391e32dc6d",
+          "size": 1221037
+        },
+        {
+          "path": "mods/backpacked-forge-1.20.1-3.0.0-beta.9.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/backpacked-forge-1.20.1-3.0.0-beta.9.jar",
+          "sha1": "afd733b5d589520d7698ec1bf1afb39f03e0d740",
+          "size": 599264
+        },
+        {
+          "path": "mods/better_smithing_ui-forge-1.20+2.0.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/better_smithing_ui-forge-1.20%2B2.0.0.jar",
+          "sha1": "678f3950db9838b25fe3e24c9386c724600f9ae4",
+          "size": 15757
+        },
+        {
+          "path": "mods/bettermobcombat-forge-1.20.1-1.3.0-all.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/bettermobcombat-forge-1.20.1-1.3.0-all.jar",
+          "sha1": "fee499a8c76c5dfced84b01bfbd6323d7c0e8159",
+          "size": 280262
+        },
+        {
+          "path": "mods/biomancy-forge-1.20.1-2.8.19.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/biomancy-forge-1.20.1-2.8.19.0.jar",
+          "sha1": "89a95e4ea32c77990793b8ba7e4e857d1d873451",
+          "size": 4845391
+        },
+        {
+          "path": "mods/buzzier_bees-1.20.1-6.0.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/buzzier_bees-1.20.1-6.0.1.jar",
+          "sha1": "d92322f51b864a40a6230cfb20692c0a98039917",
+          "size": 558630
+        },
+        {
+          "path": "mods/bygonenether-1.3.2-1.20.1-FC-FIX.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/bygonenether-1.3.2-1.20.1-FC-FIX.jar",
+          "sha1": "788326a7aa79b3bc088d65b5bd50e81d5ff6c5fb",
+          "size": 7642408
+        },
+        {
+          "path": "mods/call_of_yucutan-1.0.13-forge-1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/call_of_yucutan-1.0.13-forge-1.20.1.jar",
+          "sha1": "63e0e47cfc41dbd591affac52e7787b7122257dc",
+          "size": 3614819
+        },
+        {
+          "path": "mods/chat_heads-0.13.13-forge-1.20.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/chat_heads-0.13.13-forge-1.20.jar",
+          "sha1": "08be219d79d6b42551bc6ade3dd4e9297c46c3d1",
+          "size": 266987
+        },
+        {
+          "path": "mods/chatanimation-1.0.5.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/chatanimation-1.0.5.jar",
+          "sha1": "da00b90a05428c704ff29adbca52478ed086d0ec",
+          "size": 16345637
+        },
+        {
+          "path": "mods/cherishedworlds-forge-6.1.7+1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/cherishedworlds-forge-6.1.7%2B1.20.1.jar",
+          "sha1": "d3eb588c64691c9da83460e3b2e783401d337a34",
+          "size": 60956
+        },
+        {
+          "path": "mods/citadel-2.6.1-1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/citadel-2.6.1-1.20.1.jar",
+          "sha1": "97ccbfda78ed538669352d868ad6fa6075ec6a99",
+          "size": 3173637
+        },
+        {
+          "path": "mods/clayworks-1.20.1-3.0.3.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/clayworks-1.20.1-3.0.3.jar",
+          "sha1": "500003657aecc267b78d11bd3c6647b29984d37c",
+          "size": 1182694
+        },
+        {
+          "path": "mods/cloudstorage-FC-bookFix-1.4.0-1.20.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/cloudstorage-FC-bookFix-1.4.0-1.20.jar",
+          "sha1": "583d797ade4d5b4e8de5f0171957cf6b2f691d8d",
+          "size": 2118989
+        },
+        {
+          "path": "mods/configured-forge-1.20.1-2.2.3.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/configured-forge-1.20.1-2.2.3.jar",
+          "sha1": "065c2d287a52f52fc8d33d780192325ee6f4b6ae",
+          "size": 418929
+        },
+        {
+          "path": "mods/continuity-3.0.0+1.20.1.forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/continuity-3.0.0%2B1.20.1.forge.jar",
+          "sha1": "9280badf5810ba66132b00c9d543ad61682f53e5",
+          "size": 279973
+        },
+        {
+          "path": "mods/coolrain-1.1.0-1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/coolrain-1.1.0-1.20.1.jar",
+          "sha1": "1359de18c1d2acf2e2976856c3b3d667bd963742",
+          "size": 3126219
+        },
+        {
+          "path": "mods/corpsebutbetter-FC-Fix-1.0.6-forge-1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/corpsebutbetter-FC-Fix-1.0.6-forge-1.20.1.jar",
+          "sha1": "cd8283ccf02ddd4c0e704b45910e131f6c2f54dd",
+          "size": 809231
+        },
+        {
+          "path": "mods/crash_assistant-forge-1.19.2-1.20.1-1.7.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/crash_assistant-forge-1.19.2-1.20.1-1.7.2.jar",
+          "sha1": "c6f89d8aefd38edc65a18ef4a623f35e072f12f2",
+          "size": 842451
+        },
+        {
+          "path": "mods/create-1.20.1-0.5.1.j.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/create-1.20.1-0.5.1.j.jar",
+          "sha1": "e9f3c589977f9fed743d1ec76a9db5542756c5e2",
+          "size": 15392652
+        },
+        {
+          "path": "mods/creeperoverhaul-3.0.2-forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/creeperoverhaul-3.0.2-forge.jar",
+          "sha1": "30d21367fa0d2dbe08d4b9c6cb3b6322c0272b2a",
+          "size": 1456141
+        },
+        {
+          "path": "mods/crittersandcompanions-forge-2.2.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/crittersandcompanions-forge-2.2.2.jar",
+          "sha1": "220c48b310fd70e39c601ba26f214c62da0138ef",
+          "size": 1307514
+        },
+        {
+          "path": "mods/diet-forge-2.1.1+1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/diet-forge-2.1.1%2B1.20.1.jar",
+          "sha1": "c5f5d5980803259931dfa62236e888fb08ecf70a",
+          "size": 368483
+        },
+        {
+          "path": "mods/domesticationinnovation-1.7.1-1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/domesticationinnovation-1.7.1-1.20.1.jar",
+          "sha1": "8feae4ba8a3ffb117fa7b3b4291a520e2497fa1e",
+          "size": 853614
+        },
+        {
+          "path": "mods/drippyloadingscreen_forge_3.0.9_MC_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/drippyloadingscreen_forge_3.0.9_MC_1.20.1.jar",
+          "sha1": "b3d5cf518445c0f567b3dc6de8cede6bc3c2a283",
+          "size": 240029
+        },
+        {
+          "path": "mods/dummmmmmy-1.20-1.8.17b.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/dummmmmmy-1.20-1.8.17b.jar",
+          "sha1": "93e7b71702d2c44382abedd5164a800a66602c59",
+          "size": 336413
+        },
+        {
+          "path": "mods/dungeons-and-taverns-3.0.3.f[Forge].jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/dungeons-and-taverns-3.0.3.f%5BForge%5D.jar",
+          "sha1": "8e8eea7f1a4fbd6fff3c33db9802d86b7b51750d",
+          "size": 13157046
+        },
+        {
+          "path": "mods/dungeons-and-taverns-ancient-city-overhaul-1 [Forge].jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/dungeons-and-taverns-ancient-city-overhaul-1%20%5BForge%5D.jar",
+          "sha1": "c5b4170f6f40dde1c5c7d161f606bccbe3dd2871",
+          "size": 691038
+        },
+        {
+          "path": "mods/dungeons-and-taverns-pillager-outpost-rework-1.1 [Forge].jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/dungeons-and-taverns-pillager-outpost-rework-1.1%20%5BForge%5D.jar",
+          "sha1": "e2c23959ded20b3cc908bf26c1ac621564f2b8c3",
+          "size": 483330
+        },
+        {
+          "path": "mods/dungeons_enhanced-1.20.1-5.3.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/dungeons_enhanced-1.20.1-5.3.0.jar",
+          "sha1": "526edb728b1dcd1c93dc8085f3d5fb8b174058e7",
+          "size": 1395850
+        },
+        {
+          "path": "mods/dungeons_plus-1.20.1-1.5.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/dungeons_plus-1.20.1-1.5.0.jar",
+          "sha1": "964aba479a6a9f03dd53dd57ee753a2237910064",
+          "size": 1284723
+        },
+        {
+          "path": "mods/dynamiccrosshair-9.3+1.20.1-forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/dynamiccrosshair-9.3%2B1.20.1-forge.jar",
+          "sha1": "1cb1f8163eaecab8c9b0ac354dd699d4633aea46",
+          "size": 883296
+        },
+        {
+          "path": "mods/dynamiccrosshair-compat-3.7.4+1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/dynamiccrosshair-compat-3.7.4%2B1.20.1.jar",
+          "sha1": "e348a12e0c1556653895001a7ce4be46b39cc434",
+          "size": 226235
+        },
+        {
+          "path": "mods/dynmus-v2.3.2+1.20-forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/dynmus-v2.3.2%2B1.20-forge.jar",
+          "sha1": "11463d7dc7abab66a13eda2b9bdf4ea156eb508f",
+          "size": 71641911
+        },
+        {
+          "path": "mods/eatinganimation-FC-FIX-1.20-5.0.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/eatinganimation-FC-FIX-1.20-5.0.0.jar",
+          "sha1": "320b4f9fb13ccbac56439f396bf4cc5ff1af7729",
+          "size": 283396
+        },
+        {
+          "path": "mods/ecologics-forge-1.20.1-2.2.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/ecologics-forge-1.20.1-2.2.0.jar",
+          "sha1": "c21e42b7a2cc36d0b1ac28034da7b49619ebe261",
+          "size": 1829363
+        },
+        {
+          "path": "mods/elenaidodge2-1.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/elenaidodge2-1.1.jar",
+          "sha1": "3f2663b57220c174e3818eb08be90131950820c7",
+          "size": 302493
+        },
+        {
+          "path": "mods/emoji-type-2.2.31.20.4-forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/emoji-type-2.2.31.20.4-forge.jar",
+          "sha1": "ffdb409f32211fe3ad77b4f2bafd7c0f2195beaa",
+          "size": 28212
+        },
+        {
+          "path": "mods/endermanoverhaul-forge-1.20.1-1.0.4.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/endermanoverhaul-forge-1.20.1-1.0.4.jar",
+          "sha1": "636a2b20a5973fcb80016370865cb4251e029b6a",
+          "size": 1208062
+        },
+        {
+          "path": "mods/endrem_forge-5.3.3-R-1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/endrem_forge-5.3.3-R-1.20.1.jar",
+          "sha1": "5a7a084d8a9f9190531aa357c8ad56f9df3f35e5",
+          "size": 886271
+        },
+        {
+          "path": "mods/entity_model_features_forge_1.20.1-2.4.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/entity_model_features_forge_1.20.1-2.4.1.jar",
+          "sha1": "2ed40fd0bf3266e67036e5b3857da84c24b045e1",
+          "size": 445642
+        },
+        {
+          "path": "mods/etched-3.0.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/etched-3.0.2.jar",
+          "sha1": "b47b9823eca3b053d80c095597adffe45ef86fcb",
+          "size": 603103
+        },
+        {
+          "path": "mods/everycomp-1.20-2.7.16.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/everycomp-1.20-2.7.16.jar",
+          "sha1": "4a504632c98539272d3c738f51c4c884bc886443",
+          "size": 2617918
+        },
+        {
+          "path": "mods/explosive-enhancement-1.2.2-1.20.x.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/explosive-enhancement-1.2.2-1.20.x.jar",
+          "sha1": "5dcc50f5876d59b45b7c66f542c8448140ac2110",
+          "size": 102550
+        },
+        {
+          "path": "mods/exposure-1.20.1-1.7.6-forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/exposure-1.20.1-1.7.6-forge.jar",
+          "sha1": "61aac0b65bbe8092d3dfdd13ad1191f291972b8a",
+          "size": 1316849
+        },
+        {
+          "path": "mods/extrasounds-1.20.1-forge-1.3.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/extrasounds-1.20.1-forge-1.3.jar",
+          "sha1": "f5904eca3c41552c613b807b0e4967ef1c84206a",
+          "size": 202566
+        },
+        {
+          "path": "mods/fancymenu_forge_3.3.2_MC_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/fancymenu_forge_3.3.2_MC_1.20.1.jar",
+          "sha1": "bed01849853308ec9ed23c9a0b493adc93f1ef2e",
+          "size": 2897882
+        },
+        {
+          "path": "mods/firstperson-forge-2.4.8-mc1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/firstperson-forge-2.4.8-mc1.20.1.jar",
+          "sha1": "1ab303f2e074acf090bb150b929d0d5737dc1183",
+          "size": 126470
+        },
+        {
+          "path": "mods/fishermens_trap-2.1.4.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/fishermens_trap-2.1.4.jar",
+          "sha1": "f3a4cf1ff9f320c85900f8acf0f17629ed795dc6",
+          "size": 81928
+        },
+        {
+          "path": "mods/formationsnether-1.0.5.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/formationsnether-1.0.5.jar",
+          "sha1": "5a6371db683b4d33f5034f7d192424cfe73ea05f",
+          "size": 942157
+        },
+        {
+          "path": "mods/friendsandfoes-forge-mc1.20.1-3.0.7.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/friendsandfoes-forge-mc1.20.1-3.0.7.jar",
+          "sha1": "91388c86c2071d58e996f2a6771b2d67782db4c2",
+          "size": 3626825
+        },
+        {
+          "path": "mods/fzzy_config-0.6.4+1.20.1+forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/fzzy_config-0.6.4%2B1.20.1%2Bforge.jar",
+          "sha1": "df08036cc393ed93cca77f4b4f947b91c429ae68",
+          "size": 1913396
+        },
+        {
+          "path": "mods/gardens-of-the-dead-forge-4.0.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/gardens-of-the-dead-forge-4.0.1.jar",
+          "sha1": "e070c93455a2df32ad404d8704e57eda8d71f58e",
+          "size": 11868212
+        },
+        {
+          "path": "mods/gliders-forge-1.1.6.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/gliders-forge-1.1.6.jar",
+          "sha1": "463c4a1aa9af83c16552bdc11d84af2417c22cba",
+          "size": 743873
+        },
+        {
+          "path": "mods/grapes_first_person_patch-1-all.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/grapes_first_person_patch-1-all.jar",
+          "sha1": "02507711c12eb63c5eb4d65e8afe921b98028392",
+          "size": 168691
+        },
+        {
+          "path": "mods/harderspawners-1.20-46.25.3.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/harderspawners-1.20-46.25.3.jar",
+          "sha1": "c9d915e0cd3ab3d756ddf31ab409e46667c15272",
+          "size": 55863
+        },
+        {
+          "path": "mods/hauntedharvest-1.20-3.2.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/hauntedharvest-1.20-3.2.0.jar",
+          "sha1": "831c5686cde07106f958007962d6c5892c979f2e",
+          "size": 718867
+        },
+        {
+          "path": "mods/hearth_and_home-forge-1.20.1-2.0.3.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/hearth_and_home-forge-1.20.1-2.0.3.jar",
+          "sha1": "e271adf8937014bc951543b0645161a6e11e20a1",
+          "size": 1056779
+        },
+        {
+          "path": "mods/heartstone-1.20-1.3.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/heartstone-1.20-1.3.0.jar",
+          "sha1": "b673916f760c06ba2582f48b55543af3a572ca8f",
+          "size": 251587
+        },
+        {
+          "path": "mods/idas_forge-1.10.3+1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/idas_forge-1.10.3%2B1.20.1.jar",
+          "sha1": "3f2474fae7200be191772089dedde370531791ab",
+          "size": 11676067
+        },
+        {
+          "path": "mods/immersive_aircraft-1.2.1+1.20.1-forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/immersive_aircraft-1.2.1%2B1.20.1-forge.jar",
+          "sha1": "20d440189d6f86d6f7e7c137e7554f20631e3fdd",
+          "size": 2178775
+        },
+        {
+          "path": "mods/immersive_weathering-FC-FIX-2.0-1.20.1-2.0.5-forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/immersive_weathering-FC-FIX-2.0-1.20.1-2.0.5-forge.jar",
+          "sha1": "26cf8e803813a23ae8c597a55a6282604bba9569",
+          "size": 2261638
+        },
+        {
+          "path": "mods/incubation-1.20.1-4.0.4.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/incubation-1.20.1-4.0.4.jar",
+          "sha1": "9aae244f95985706f7d48437830670d9ade130f7",
+          "size": 482946
+        },
+        {
+          "path": "mods/infinite-music-0.2.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/infinite-music-0.2.1.jar",
+          "sha1": "a438d1c2656544f48aa8344162b76de2cbafc824",
+          "size": 37134
+        },
+        {
+          "path": "mods/integrated_cataclysm_forge-1.0.4+1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/integrated_cataclysm_forge-1.0.4%2B1.20.1.jar",
+          "sha1": "b74ccba2224d2495f746262c10897102ca7c2bb4",
+          "size": 5067013
+        },
+        {
+          "path": "mods/integrated_stronghold-1.1.2+1.20.1-forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/integrated_stronghold-1.1.2%2B1.20.1-forge.jar",
+          "sha1": "4b6f25ef22bb14007493f378baf29f89b490ea34",
+          "size": 5254827
+        },
+        {
+          "path": "mods/integrated_villages-1.1.5+1.20.1-forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/integrated_villages-1.1.5%2B1.20.1-forge.jar",
+          "sha1": "d676c1892ce7f2b6066ed66b8ee4ce9986178672",
+          "size": 4098357
+        },
+        {
+          "path": "mods/jei-1.20.1-forge-15.20.0.106.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/jei-1.20.1-forge-15.20.0.106.jar",
+          "sha1": "77928d15d797663846cba44de8f79e4e4c5fdbb7",
+          "size": 1379220
+        },
+        {
+          "path": "mods/lootr-forge-1.20-0.7.35.90.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/lootr-forge-1.20-0.7.35.90.jar",
+          "sha1": "919a1e75d8fac3081743c9dcbe6679a28c867ec9",
+          "size": 457647
+        },
+        {
+          "path": "mods/luckys-wardrobe-FC-FIX-1.0.3-1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/luckys-wardrobe-FC-FIX-1.0.3-1.20.1.jar",
+          "sha1": "ad16c0e5c9edccd83e2c97aa99548a3bae6dc684",
+          "size": 858373
+        },
+        {
+          "path": "mods/luckys_armory-FC-Fix0.4.0.1-forge-1.20.1-BETA.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/luckys_armory-FC-Fix0.4.0.1-forge-1.20.1-BETA.jar",
+          "sha1": "fb0eb1f4caa02160d5648b72a6aa6bea81ca7a19",
+          "size": 464819
+        },
+        {
+          "path": "mods/man_of_many_planes-0.2.0+1.20.1-forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/man_of_many_planes-0.2.0%2B1.20.1-forge.jar",
+          "sha1": "0037367a8af0d55a1b7f4c43dfc94cbdaca281db",
+          "size": 309137
+        },
+        {
+          "path": "mods/marspopsicle-1.20.1-1.1.1-FC.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/marspopsicle-1.20.1-1.1.1-FC.jar",
+          "sha1": "d5f203b0dbd66d94a9cfa38180c5eb8bb7433bef",
+          "size": 16581
+        },
+        {
+          "path": "mods/mcw-paintings-1.0.5-1.20.1forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/mcw-paintings-1.0.5-1.20.1forge.jar",
+          "sha1": "47455c48ff84c0ba42936a95a1bb3709689e24cf",
+          "size": 72181
+        },
+        {
+          "path": "mods/medieval_seedbags_1.0.1_forge_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/medieval_seedbags_1.0.1_forge_1.20.1.jar",
+          "sha1": "7e0dd7b7d20805bbb6ff6b8475a0282a09171c89",
+          "size": 149325
+        },
+        {
+          "path": "mods/mes-1.3.4-1.20-forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/mes-1.3.4-1.20-forge.jar",
+          "sha1": "b097755febb3f4e562b25017805a13992214fdea",
+          "size": 387792
+        },
+        {
+          "path": "mods/mns-1.0.3-1.20-forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/mns-1.0.3-1.20-forge.jar",
+          "sha1": "8bba130a1a3fa074e5fc3310adc8434b01f192dc",
+          "size": 1625038
+        },
+        {
+          "path": "mods/mobplayeranimator-forge-1.20.1-1.3.3-all.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/mobplayeranimator-forge-1.20.1-1.3.3-all.jar",
+          "sha1": "5767ecee24e34efb138403a45de1589e38ddc624",
+          "size": 223397
+        },
+        {
+          "path": "mods/moremobvariants-forge+1.20.1-1.3.0.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/moremobvariants-forge%2B1.20.1-1.3.0.1.jar",
+          "sha1": "0fad563c9d66e421b0b0d4541b33d18516446c58",
+          "size": 379988
+        },
+        {
+          "path": "mods/morevillagers-forge-1.20.1-5.0.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/morevillagers-forge-1.20.1-5.0.0.jar",
+          "sha1": "05aa5a4bead6f42c87320d2deafa31cd66aa8aec",
+          "size": 229208
+        },
+        {
+          "path": "mods/namepain-1.5.0 forge-1.20.x.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/namepain-1.5.0%20forge-1.20.x.jar",
+          "sha1": "16a257c1cec72619052c93dd1cd1bcedd052602c",
+          "size": 25172
+        },
+        {
+          "path": "mods/naturalist-forge-4.0.3-1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/naturalist-forge-4.0.3-1.20.1.jar",
+          "sha1": "233106b2b15b2bbb27df6c78cc8369c0f89d4df7",
+          "size": 3343324
+        },
+        {
+          "path": "mods/nether-s-exoticism-1.20.1-1.2.9.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/nether-s-exoticism-1.20.1-1.2.9.jar",
+          "sha1": "55a80bce0d0e82091ead63eddad66c84197f1198",
+          "size": 2989302
+        },
+        {
+          "path": "mods/netherite_horse_armor-forge-1.20.1-1.0.4.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/netherite_horse_armor-forge-1.20.1-1.0.4.jar",
+          "sha1": "8c9c08550e234cb75b2e297ad11bfb4aa1e8d080",
+          "size": 142963
+        },
+        {
+          "path": "mods/nocube's_villagers_sell_animals_1.2.1_forge_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/nocube%27s_villagers_sell_animals_1.2.1_forge_1.20.1.jar",
+          "sha1": "394818a1f121d51c7db0e11fd6992db734d09871",
+          "size": 105667
+        },
+        {
+          "path": "mods/notenoughanimations-forge-1.9.2-mc1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/notenoughanimations-forge-1.9.2-mc1.20.1.jar",
+          "sha1": "c9666025164bcafed9e6d03057ec8a31ebbce170",
+          "size": 455945
+        },
+        {
+          "path": "mods/nyfsspiders-forge-1.20.1-2.1.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/nyfsspiders-forge-1.20.1-2.1.1.jar",
+          "sha1": "20783131cc63dec55036ffde84ed72c7e3c648c3",
+          "size": 178046
+        },
+        {
+          "path": "mods/oculus-mc1.20.1-1.8.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/oculus-mc1.20.1-1.8.0.jar",
+          "sha1": "984f774e71790deaec674c7587bd24e0711871b2",
+          "size": 2851119
+        },
+        {
+          "path": "mods/paginatedadvancements-2.3.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/paginatedadvancements-2.3.0.jar",
+          "sha1": "d3709c29edca39a4d8c0d296c120adb376fd32af",
+          "size": 69502
+        },
+        {
+          "path": "mods/panorama_screens-1.0+forge+mc1.20.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/panorama_screens-1.0%2Bforge%2Bmc1.20.jar",
+          "sha1": "5ce53c726965c223c3a0d082ba029b33701f919f",
+          "size": 233587
+        },
+        {
+          "path": "mods/particular-1.0.3.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/particular-1.0.3.jar",
+          "sha1": "c57231e5cee3ed6c0126f799859b22ce4d96b208",
+          "size": 175206
+        },
+        {
+          "path": "mods/personality-1.20.1-4.0.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/personality-1.20.1-4.0.0.jar",
+          "sha1": "9996ee9d399e23c8110ac5df72009ae1445ac640",
+          "size": 292463
+        },
+        {
+          "path": "mods/polymorph-forge-0.49.8+1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/polymorph-forge-0.49.8%2B1.20.1.jar",
+          "sha1": "60be345312d425fc1cff5af7ae1acd46d941dc62",
+          "size": 299140
+        },
+        {
+          "path": "mods/portfolio-1.20.1-1.4.0-forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/portfolio-1.20.1-1.4.0-forge.jar",
+          "sha1": "a81944099b81d3872199073b018c2db8fa435890",
+          "size": 261221
+        },
+        {
+          "path": "mods/radiantgear-forge-2.2.0+1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/radiantgear-forge-2.2.0%2B1.20.1.jar",
+          "sha1": "525b3ebccece23ed6bf4945a1c054c21599fc083",
+          "size": 47170
+        },
+        {
+          "path": "mods/raised-forge-1.20.1-4.0.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/raised-forge-1.20.1-4.0.1.jar",
+          "sha1": "4eeab41b91c763d5f3cb066be780637e1cb72e0f",
+          "size": 76177
+        },
+        {
+          "path": "mods/rebindnarrator-forge-1.20.x-1.2.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/rebindnarrator-forge-1.20.x-1.2.2.jar",
+          "sha1": "a3fa5e1cd00473b9f6fe23595b87b8f81db0695f",
+          "size": 26794
+        },
+        {
+          "path": "mods/sapience-1.20.1-1.0.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/sapience-1.20.1-1.0.0.jar",
+          "sha1": "d347450f23df1f5807548fd3c5a97404019ceab6",
+          "size": 128832
+        },
+        {
+          "path": "mods/savage_and_ravage-1.20.1-6.0.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/savage_and_ravage-1.20.1-6.0.0.jar",
+          "sha1": "a6895b929eaa76a46814c0bb0d3e70190d3b26a1",
+          "size": 1315327
+        },
+        {
+          "path": "mods/sawmill-1.20-1.4.6.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/sawmill-1.20-1.4.6.jar",
+          "sha1": "5bb13d514e1d370e5138c5839395b910f8d4cefe",
+          "size": 644232
+        },
+        {
+          "path": "mods/screenshot_viewer-1.3.2-forge-mc1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/screenshot_viewer-1.3.2-forge-mc1.20.1.jar",
+          "sha1": "ecb6d12d6073cbe8b8912f5b2fe7a8c025c758b9",
+          "size": 113495
+        },
+        {
+          "path": "mods/sleep_tight-1.20-1.1.19.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/sleep_tight-1.20-1.1.19.jar",
+          "sha1": "7080c6452bb7f3332e6f973d6ef75c456741b0b7",
+          "size": 735748
+        },
+        {
+          "path": "mods/snowundertrees-1.20.1-1.4.9.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/snowundertrees-1.20.1-1.4.9.jar",
+          "sha1": "0f1d4060971502ed310bd072d1218b40e1a66c1b",
+          "size": 27120
+        },
+        {
+          "path": "mods/sootychimneys-1.20.1-1.2.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/sootychimneys-1.20.1-1.2.1.jar",
+          "sha1": "6a5627a9027fdbdb379c09bae7e3750aad846b06",
+          "size": 174387
+        },
+        {
+          "path": "mods/sophisticatedbackpacks-1.20.1-3.23.6.1211.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/sophisticatedbackpacks-1.20.1-3.23.6.1211.jar",
+          "sha1": "10e7979236c1fac796c172ce14016b03c2b6ff8e",
+          "size": 897034
+        },
+        {
+          "path": "mods/sound-physics-remastered-forge-1.20.1-1.4.8.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/sound-physics-remastered-forge-1.20.1-1.4.8.jar",
+          "sha1": "11c6fc5351d032adf516f1ea1fae55ca132e9c6b",
+          "size": 197076
+        },
+        {
+          "path": "mods/spelunkery-1.20.1-0.3.16-forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/spelunkery-1.20.1-0.3.16-forge.jar",
+          "sha1": "09164f7aed7b41ee549dfc8c14d9cfc88d172eb3",
+          "size": 2650577
+        },
+        {
+          "path": "mods/spyglass_improvements-1.5+mc1.20+forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/spyglass_improvements-1.5%2Bmc1.20%2Bforge.jar",
+          "sha1": "16166f37208282f35d1b16e780f282fc06c9872c",
+          "size": 54173
+        },
+        {
+          "path": "mods/supplementaries-1.20-3.1.13.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/supplementaries-1.20-3.1.13.jar",
+          "sha1": "8e78c35ef22b9a0648563f74e722c4902a84ffa5",
+          "size": 17960138
+        },
+        {
+          "path": "mods/suppsquared-1.20-1.1.18.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/suppsquared-1.20-1.1.18.jar",
+          "sha1": "fb91af02a1083709e1b0b2e2fcc2d09a6bdce291",
+          "size": 888753
+        },
+        {
+          "path": "mods/takesapillage-FC-Edit-1.0.3-1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/takesapillage-FC-Edit-1.0.3-1.20.1.jar",
+          "sha1": "c4412737d6c23cec9baf490ed57fa6103902bb52",
+          "size": 3753077
+        },
+        {
+          "path": "mods/the-conjurer-1.20.1-1.1.6.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/the-conjurer-1.20.1-1.1.6.jar",
+          "sha1": "0b7aee55e8fd499950185ef263115228fc200c5e",
+          "size": 5389073
+        },
+        {
+          "path": "mods/tia-1.20-1.1-forge.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/tia-1.20-1.1-forge.jar",
+          "sha1": "bd1eac323a351355d21ddf720fb0503020c77928",
+          "size": 11766
+        },
+        {
+          "path": "mods/toms_storage-1.20-1.7.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/toms_storage-1.20-1.7.0.jar",
+          "sha1": "92ae8df283ab361e0a4fd0c9c535c1f68ba3e71b",
+          "size": 519961
+        },
+        {
+          "path": "mods/unusualprehistory-1.5.0.3.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/unusualprehistory-1.5.0.3.jar",
+          "sha1": "04c3c233d7fcfe4bbcd638ec40e58c5f7fc7a70d",
+          "size": 8813657
+        },
+        {
+          "path": "mods/valhelsia_furniture-forge-1.20.1-1.1.3.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/valhelsia_furniture-forge-1.20.1-1.1.3.jar",
+          "sha1": "3369038794434045849f46c280c390467c8672f2",
+          "size": 4518058
+        },
+        {
+          "path": "mods/villagesandpillages-forge-mc1.20.1-1.0.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/villagesandpillages-forge-mc1.20.1-1.0.2.jar",
+          "sha1": "f80991a44ece347f0be2724c63159b6e46ae8393",
+          "size": 243628
+        },
+        {
+          "path": "mods/visuality-forge-2.0.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/visuality-forge-2.0.2.jar",
+          "sha1": "1f0547f3ba508156cd4630bf793df464230e04f3",
+          "size": 215750
+        },
+        {
+          "path": "mods/voicechat-forge-1.20.1-2.5.27.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/voicechat-forge-1.20.1-2.5.27.jar",
+          "sha1": "dc3a2e94562630606e542ade0adb4618e5e7643f",
+          "size": 7616752
+        },
+        {
+          "path": "mods/wakes-0.2.4+1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/wakes-0.2.4%2B1.20.1.jar",
+          "sha1": "32f620bd5a4a5e0bc99c73766d8985e1c455747a",
+          "size": 347775
+        },
+        {
+          "path": "mods/warriors_of_past_epoch_[Forge]_1.20.1_1.4.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/warriors_of_past_epoch_%5BForge%5D_1.20.1_1.4.2.jar",
+          "sha1": "cc856135b701390ce504524cbfb85901cd1396a6",
+          "size": 737885
+        },
+        {
+          "path": "mods/wetlands-1.2-1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/wetlands-1.2-1.20.1.jar",
+          "sha1": "a9c011e66bdf4b18dc2b2539043e5fb765660ed6",
+          "size": 1218529
+        },
+        {
+          "path": "mods/yucutan_delight-1.1.0-forge-1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/yucutan_delight-1.1.0-forge-1.20.1.jar",
+          "sha1": "27551b140336349fdced090b38afbccb8216a834",
+          "size": 20413
+        },
+        {
+          "path": "mods/zetter-1.20.1-0.21.5.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/zetter-1.20.1-0.21.5.jar",
+          "sha1": "f854393594fd186789fc181b21619ef99e83aab9",
+          "size": 1333236
+        },
+        {
+          "path": "mods/.connector/API-bclib-3.0.14$wunderlib-1.1.5_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/API-bclib-3.0.14%24wunderlib-1.1.5_mapped_srg_1.20.1.jar",
+          "sha1": "f8630580b67ec4b9163ed5bcf4a3074a9f9f42b0",
+          "size": 223919
+        },
+        {
+          "path": "mods/.connector/API-bclib-3.0.14$wunderlib-1.1.5_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/API-bclib-3.0.14%24wunderlib-1.1.5_mapped_srg_1.20.1.jar.input",
+          "sha1": "b10482c9f68655270d6fa593773350fb2b7ef28b",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/API-bclib-3.0.14_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/API-bclib-3.0.14_mapped_srg_1.20.1.jar",
+          "sha1": "f04fbb2a6c736ad275644e4b64ba567b8b54b41f",
+          "size": 2355583
+        },
+        {
+          "path": "mods/.connector/API-bclib-3.0.14_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/API-bclib-3.0.14_mapped_srg_1.20.1.jar.input",
+          "sha1": "83f72411a865d216c9ffaf3f09634ab1d4fde960",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$atomicfu-jvm-0.24.0_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24atomicfu-jvm-0.24.0_mapped_srg_1.20.1.jar",
+          "sha1": "0211d22391cd2e7e54f99a37737f73c5b7a0b5d3",
+          "size": 38539
+        },
+        {
+          "path": "mods/.connector/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$atomicfu-jvm-0.24.0_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24atomicfu-jvm-0.24.0_mapped_srg_1.20.1.jar.input",
+          "sha1": "3489de614d3b9556869bb3b76c6d46ddd648688a",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlin-reflect-2.0.0_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlin-reflect-2.0.0_mapped_srg_1.20.1.jar",
+          "sha1": "3cad7fc0c8ed5dfbf655cab7f58c640779933fa5",
+          "size": 3163400
+        },
+        {
+          "path": "mods/.connector/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlin-reflect-2.0.0_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlin-reflect-2.0.0_mapped_srg_1.20.1.jar.input",
+          "sha1": "446f7443107cadc767f94a18b8845b75e31f9a03",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlin-stdlib-2.0.0_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlin-stdlib-2.0.0_mapped_srg_1.20.1.jar",
+          "sha1": "88aab0f782dca9bbbc8e8e6f87548b41aff27f25",
+          "size": 1784498
+        },
+        {
+          "path": "mods/.connector/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlin-stdlib-2.0.0_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlin-stdlib-2.0.0_mapped_srg_1.20.1.jar.input",
+          "sha1": "805442959d55064ce17ec54705ae99f914f1ff10",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlin-stdlib-jdk7-2.0.0_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlin-stdlib-jdk7-2.0.0_mapped_srg_1.20.1.jar",
+          "sha1": "4a5ea2003c50ee632c4452efa831903a0cc10a09",
+          "size": 1814
+        },
+        {
+          "path": "mods/.connector/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlin-stdlib-jdk7-2.0.0_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlin-stdlib-jdk7-2.0.0_mapped_srg_1.20.1.jar.input",
+          "sha1": "2304a94f36a3a291cb50c142396ac1cd1db7c6bf",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlin-stdlib-jdk8-2.0.0_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlin-stdlib-jdk8-2.0.0_mapped_srg_1.20.1.jar",
+          "sha1": "5a6550553d8262cbd6b3da94873e7da2f9350de0",
+          "size": 1820
+        },
+        {
+          "path": "mods/.connector/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlin-stdlib-jdk8-2.0.0_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlin-stdlib-jdk8-2.0.0_mapped_srg_1.20.1.jar.input",
+          "sha1": "d5920536a7f78cab9b57fabcb40d360296c01c17",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlinx-coroutines-core-jvm-1.8.1_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlinx-coroutines-core-jvm-1.8.1_mapped_srg_1.20.1.jar",
+          "sha1": "c6955840527e59f4ff8b36a701ae8b0a9a660375",
+          "size": 1594285
+        },
+        {
+          "path": "mods/.connector/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlinx-coroutines-core-jvm-1.8.1_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlinx-coroutines-core-jvm-1.8.1_mapped_srg_1.20.1.jar.input",
+          "sha1": "9509ca878eaf8ec7de428c9c28e4857e122b6c12",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlinx-coroutines-jdk8-1.8.1_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlinx-coroutines-jdk8-1.8.1_mapped_srg_1.20.1.jar",
+          "sha1": "d7debc81bd53a1e8e4482f78bccac405dfc59506",
+          "size": 1863
+        },
+        {
+          "path": "mods/.connector/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlinx-coroutines-jdk8-1.8.1_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlinx-coroutines-jdk8-1.8.1_mapped_srg_1.20.1.jar.input",
+          "sha1": "2581b53d3ac42b480f1d88fcce1bb8f8a33135a8",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlinx-datetime-jvm-0.6.0_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlinx-datetime-jvm-0.6.0_mapped_srg_1.20.1.jar",
+          "sha1": "6877dd30e7fdb985e1e022f8cd7e02d820a68378",
+          "size": 688309
+        },
+        {
+          "path": "mods/.connector/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlinx-datetime-jvm-0.6.0_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlinx-datetime-jvm-0.6.0_mapped_srg_1.20.1.jar.input",
+          "sha1": "dbae3cbed1d40cee5b0a8126257c8c2d15ee2350",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlinx-serialization-cbor-jvm-1.6.3_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlinx-serialization-cbor-jvm-1.6.3_mapped_srg_1.20.1.jar",
+          "sha1": "f96ea5c1954963162180b82dd1c045025ccb3b42",
+          "size": 36755
+        },
+        {
+          "path": "mods/.connector/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlinx-serialization-cbor-jvm-1.6.3_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlinx-serialization-cbor-jvm-1.6.3_mapped_srg_1.20.1.jar.input",
+          "sha1": "b1ba0fe74f98cd239757ba8ccdb9fd1b20b9dd71",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlinx-serialization-core-jvm-1.6.3_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlinx-serialization-core-jvm-1.6.3_mapped_srg_1.20.1.jar",
+          "sha1": "73994da2906072113911edc51cd585c4a12cc595",
+          "size": 435307
+        },
+        {
+          "path": "mods/.connector/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlinx-serialization-core-jvm-1.6.3_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlinx-serialization-core-jvm-1.6.3_mapped_srg_1.20.1.jar.input",
+          "sha1": "6022414107e7ac8b81447d41f0acabe915d38e21",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlinx-serialization-json-jvm-1.6.3_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlinx-serialization-json-jvm-1.6.3_mapped_srg_1.20.1.jar",
+          "sha1": "ab8980aa682af378c39f75de2f9ed405b5ab61e2",
+          "size": 273425
+        },
+        {
+          "path": "mods/.connector/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlinx-serialization-json-jvm-1.6.3_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlinx-serialization-json-jvm-1.6.3_mapped_srg_1.20.1.jar.input",
+          "sha1": "9ed762a0eb1fc75b5256fd20e6f9819f8f352adf",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0_mapped_srg_1.20.1.jar",
+          "sha1": "03d8a74db75a3a2997e8a9db53911a0e6ab53e19",
+          "size": 7016855
+        },
+        {
+          "path": "mods/.connector/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0_mapped_srg_1.20.1.jar.input",
+          "sha1": "2174fdcfb7f9c648a2dbb7eab2c0026b7338fe62",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/API-owo-lib-0.11.2+1.20$jankson-1.2.2_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/API-owo-lib-0.11.2%2B1.20%24jankson-1.2.2_mapped_srg_1.20.1.jar",
+          "sha1": "0950f68385bfb78291b803b53f79efdb3aa10a79",
+          "size": 77183
+        },
+        {
+          "path": "mods/.connector/API-owo-lib-0.11.2+1.20$jankson-1.2.2_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/API-owo-lib-0.11.2%2B1.20%24jankson-1.2.2_mapped_srg_1.20.1.jar.input",
+          "sha1": "2632e2402431ee6ddbf4aba3d367306acc5980ee",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/API-owo-lib-0.11.2+1.20_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/API-owo-lib-0.11.2%2B1.20_mapped_srg_1.20.1.jar",
+          "sha1": "3601e477bcc6a367d93bcf7d50647a0f474ab1eb",
+          "size": 904670
+        },
+        {
+          "path": "mods/.connector/API-owo-lib-0.11.2+1.20_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/API-owo-lib-0.11.2%2B1.20_mapped_srg_1.20.1.jar.input",
+          "sha1": "b563ab92757b900bbf7da95b9cb0fc71cae21417",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/API-surveyor-0.6.25+1.20$kaleido-config-0.3.1+1.3.2_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/API-surveyor-0.6.25%2B1.20%24kaleido-config-0.3.1%2B1.3.2_mapped_srg_1.20.1.jar",
+          "sha1": "1c0adf809352720343bfbf4c71af87dd5e463b1c",
+          "size": 321411
+        },
+        {
+          "path": "mods/.connector/API-surveyor-0.6.25+1.20$kaleido-config-0.3.1+1.3.2_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/API-surveyor-0.6.25%2B1.20%24kaleido-config-0.3.1%2B1.3.2_mapped_srg_1.20.1.jar.input",
+          "sha1": "6c1ff012baaf44c6cdea256d7227a069eb147422",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/API-surveyor-0.6.25+1.20_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/API-surveyor-0.6.25%2B1.20_mapped_srg_1.20.1.jar",
+          "sha1": "4823856d7a8b602deeada12a6827625405a6faf2",
+          "size": 566929
+        },
+        {
+          "path": "mods/.connector/API-surveyor-0.6.25+1.20_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/API-surveyor-0.6.25%2B1.20_mapped_srg_1.20.1.jar.input",
+          "sha1": "9a7a5079c5facc920f9dcca2c3941b24dfa1c59d",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/API-tcdcommons-3.9.7+fabric-1.20.1_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/API-tcdcommons-3.9.7%2Bfabric-1.20.1_mapped_srg_1.20.1.jar",
+          "sha1": "30214a6ec8c9ef2616d7bf3b01a22a28d4780177",
+          "size": 835924
+        },
+        {
+          "path": "mods/.connector/API-tcdcommons-3.9.7+fabric-1.20.1_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/API-tcdcommons-3.9.7%2Bfabric-1.20.1_mapped_srg_1.20.1.jar.input",
+          "sha1": "61ebe815ed37c4724cd502b3053fd0bff76401a0",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/BetterEnd-4.0.11_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/BetterEnd-4.0.11_mapped_srg_1.20.1.jar",
+          "sha1": "be65b05d6d1fec1eb794e981071d8eafad5ab4fd",
+          "size": 92581374
+        },
+        {
+          "path": "mods/.connector/BetterEnd-4.0.11_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/BetterEnd-4.0.11_mapped_srg_1.20.1.jar.input",
+          "sha1": "3c52092fb33c8574727f34588654d45d94ba2ed7",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/BetterStats-3.9.7+fabric-1.20.1_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/BetterStats-3.9.7%2Bfabric-1.20.1_mapped_srg_1.20.1.jar",
+          "sha1": "69b617212bb14d0f7cdc071aba69f0c160c6048c",
+          "size": 1051857
+        },
+        {
+          "path": "mods/.connector/BetterStats-3.9.7+fabric-1.20.1_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/BetterStats-3.9.7%2Bfabric-1.20.1_mapped_srg_1.20.1.jar.input",
+          "sha1": "dfe063d94af2d5eae117df8ef9077e2b96313a5b",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/CameraOverhaul-1.4.0-fabric-universal_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/CameraOverhaul-1.4.0-fabric-universal_mapped_srg_1.20.1.jar",
+          "sha1": "2e7c64285318cab64a547998e2a468de6d15ae60",
+          "size": 57992
+        },
+        {
+          "path": "mods/.connector/CameraOverhaul-1.4.0-fabric-universal_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/CameraOverhaul-1.4.0-fabric-universal_mapped_srg_1.20.1.jar.input",
+          "sha1": "32782e083a471e93aefbd6cd2a1e1529371f354c",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/Caracal-1.20-2.3.3_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/Caracal-1.20-2.3.3_mapped_srg_1.20.1.jar",
+          "sha1": "e377aa88b5b8dc23cfe4e3b14c6cdce0a304b8c1",
+          "size": 961066
+        },
+        {
+          "path": "mods/.connector/Caracal-1.20-2.3.3_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/Caracal-1.20-2.3.3_mapped_srg_1.20.1.jar.input",
+          "sha1": "25b9b9cc2fd7520633ed22ef248501ce3577b088",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/ChristmasUPD-RainbowChristmas-FC-Edit-1.0.0_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/ChristmasUPD-RainbowChristmas-FC-Edit-1.0.0_mapped_srg_1.20.1.jar",
+          "sha1": "d6ace46fe8ae4ac02a8696ff4e9b7e3051e06602",
+          "size": 506609
+        },
+        {
+          "path": "mods/.connector/ChristmasUPD-RainbowChristmas-FC-Edit-1.0.0_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/ChristmasUPD-RainbowChristmas-FC-Edit-1.0.0_mapped_srg_1.20.1.jar.input",
+          "sha1": "4e46d6100d41b61d4408e8b365a70254c5397856",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/FIX-sparsestructures-fabric-1.20.1-2.2.0_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/FIX-sparsestructures-fabric-1.20.1-2.2.0_mapped_srg_1.20.1.jar",
+          "sha1": "482833b58fb7908699afecc29ab69f0ff2607607",
+          "size": 120909
+        },
+        {
+          "path": "mods/.connector/FIX-sparsestructures-fabric-1.20.1-2.2.0_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/FIX-sparsestructures-fabric-1.20.1-2.2.0_mapped_srg_1.20.1.jar.input",
+          "sha1": "8cb285a08fd2d213af47ae2be1d07b997aa35c7d",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/Kaffee's_Dual_Ride-mc1.20.1-1.1.0_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/Kaffee%27s_Dual_Ride-mc1.20.1-1.1.0_mapped_srg_1.20.1.jar",
+          "sha1": "745b40a3f35b6defb5e56d86e4632f5578202ecb",
+          "size": 46865
+        },
+        {
+          "path": "mods/.connector/Kaffee's_Dual_Ride-mc1.20.1-1.1.0_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/Kaffee%27s_Dual_Ride-mc1.20.1-1.1.0_mapped_srg_1.20.1.jar.input",
+          "sha1": "8e73b847611c266b21532868b23f70590d1d8a15",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/SmoothScrollingRefurbished+1.20-1.1.2_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/SmoothScrollingRefurbished%2B1.20-1.1.2_mapped_srg_1.20.1.jar",
+          "sha1": "520684d434e8767b8925d67ac389d88c92474625",
+          "size": 12143
+        },
+        {
+          "path": "mods/.connector/SmoothScrollingRefurbished+1.20-1.1.2_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/SmoothScrollingRefurbished%2B1.20-1.1.2_mapped_srg_1.20.1.jar.input",
+          "sha1": "88abefbfe4d7f4f749b34e76f9a25e315ff6ba81",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/Sn0wfrogs_Capybaras-FC-Edit-1.1.0_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/Sn0wfrogs_Capybaras-FC-Edit-1.1.0_mapped_srg_1.20.1.jar",
+          "sha1": "5e840ee5ee070d3c06e3ca98d5351493da528c42",
+          "size": 397134
+        },
+        {
+          "path": "mods/.connector/Sn0wfrogs_Capybaras-FC-Edit-1.1.0_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/Sn0wfrogs_Capybaras-FC-Edit-1.1.0_mapped_srg_1.20.1.jar.input",
+          "sha1": "67e987d5296c401395177c1846c174fa403c6828",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/SomeAdd-farsight-fabric-1.20.1-4.3$jctools-core-4.0.1_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/SomeAdd-farsight-fabric-1.20.1-4.3%24jctools-core-4.0.1_mapped_srg_1.20.1.jar",
+          "sha1": "c3995241859e507c6dcafb404a6f4e812166bdab",
+          "size": 424472
+        },
+        {
+          "path": "mods/.connector/SomeAdd-farsight-fabric-1.20.1-4.3$jctools-core-4.0.1_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/SomeAdd-farsight-fabric-1.20.1-4.3%24jctools-core-4.0.1_mapped_srg_1.20.1.jar.input",
+          "sha1": "ae6f0cba69b1c7bcbc11d105b48eb778c684802a",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/SomeAdd-farsight-fabric-1.20.1-4.3_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/SomeAdd-farsight-fabric-1.20.1-4.3_mapped_srg_1.20.1.jar",
+          "sha1": "0d0b4c768ef94e92d67f5dd8ecc6b3b96e7ea75f",
+          "size": 373053
+        },
+        {
+          "path": "mods/.connector/SomeAdd-farsight-fabric-1.20.1-4.3_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/SomeAdd-farsight-fabric-1.20.1-4.3_mapped_srg_1.20.1.jar.input",
+          "sha1": "9b4012d559d044f119b7c6215f077bad7e2e35a8",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/Texturized-Particles-1.0.0+1.20.1_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/Texturized-Particles-1.0.0%2B1.20.1_mapped_srg_1.20.1.jar",
+          "sha1": "4606cba6039700103919866173a1fef8890a2a35",
+          "size": 436921
+        },
+        {
+          "path": "mods/.connector/Texturized-Particles-1.0.0+1.20.1_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/Texturized-Particles-1.0.0%2B1.20.1_mapped_srg_1.20.1.jar.input",
+          "sha1": "887892f1a943884cee2dca129a7acaaf4c42eef3",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/chatanimation-1.0.5$mixinextras-fabric-0.2.0-beta.9_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/chatanimation-1.0.5%24mixinextras-fabric-0.2.0-beta.9_mapped_srg_1.20.1.jar",
+          "sha1": "9842eb0dcefca47c08e1337fd7569cfb887f3a86",
+          "size": 108618
+        },
+        {
+          "path": "mods/.connector/chatanimation-1.0.5$mixinextras-fabric-0.2.0-beta.9_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/chatanimation-1.0.5%24mixinextras-fabric-0.2.0-beta.9_mapped_srg_1.20.1.jar.input",
+          "sha1": "c1a38f60cb84480fef998ae79c9395eb3d91ee43",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/chatanimation-1.0.5_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/chatanimation-1.0.5_mapped_srg_1.20.1.jar",
+          "sha1": "d1f3814f280957bf24cf7d26369b0894e9cc2024",
+          "size": 16346761
+        },
+        {
+          "path": "mods/.connector/chatanimation-1.0.5_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/chatanimation-1.0.5_mapped_srg_1.20.1.jar.input",
+          "sha1": "953abf52c4a94c2372d641da4beda2c25b9360ff",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/continuity-3.0.0%2B1.20.1.forge_mapped_srg_1.20.1.jar",
+          "sha1": "eb9e0a9cec9148a9e079690a2a54a9fab087903b",
+          "size": 289583
+        },
+        {
+          "path": "mods/.connector/continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/continuity-3.0.0%2B1.20.1.forge_mapped_srg_1.20.1.jar.input",
+          "sha1": "9163dbde29d43fd410a8e4ed279559df5453bbb6",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/coolrain-1.1.0-1.20.1_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/coolrain-1.1.0-1.20.1_mapped_srg_1.20.1.jar",
+          "sha1": "094a62e38c232f734e0f103d8475612d31a2d4c2",
+          "size": 3127981
+        },
+        {
+          "path": "mods/.connector/coolrain-1.1.0-1.20.1_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/coolrain-1.1.0-1.20.1_mapped_srg_1.20.1.jar.input",
+          "sha1": "1494332e1133bcfda19b58784137297c132324eb",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/dynamiccrosshair-compat-3.7.4+1.20.1_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/dynamiccrosshair-compat-3.7.4%2B1.20.1_mapped_srg_1.20.1.jar",
+          "sha1": "7333951b70e73af0db34b7a2c97784eac08b58df",
+          "size": 235322
+        },
+        {
+          "path": "mods/.connector/dynamiccrosshair-compat-3.7.4+1.20.1_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/dynamiccrosshair-compat-3.7.4%2B1.20.1_mapped_srg_1.20.1.jar.input",
+          "sha1": "1656d5d2c890d0a0cc5cdea0c27156ba0201629b",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/explosive-enhancement-1.2.2-1.20.x_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/explosive-enhancement-1.2.2-1.20.x_mapped_srg_1.20.1.jar",
+          "sha1": "48f20ae74ec77f8c0fca86e5a983cb87645a4d5c",
+          "size": 95327
+        },
+        {
+          "path": "mods/.connector/explosive-enhancement-1.2.2-1.20.x_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/explosive-enhancement-1.2.2-1.20.x_mapped_srg_1.20.1.jar.input",
+          "sha1": "50c7291031d482c84bec1631ff1c63671c8f7f37",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/infinite-music-0.2.1_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/infinite-music-0.2.1_mapped_srg_1.20.1.jar",
+          "sha1": "5a1cd2feec696008f593c50494ebba4f698e08d8",
+          "size": 38303
+        },
+        {
+          "path": "mods/.connector/infinite-music-0.2.1_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/infinite-music-0.2.1_mapped_srg_1.20.1.jar.input",
+          "sha1": "d460f30b4e4f7000bcc68e9ec1a675ddcf86d2c2",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/originsumbrellas-1.5.6_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/originsumbrellas-1.5.6_mapped_srg_1.20.1.jar",
+          "sha1": "df5c468f0e476f5ade37f166f50b2cc732cdf867",
+          "size": 44322
+        },
+        {
+          "path": "mods/.connector/originsumbrellas-1.5.6_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/originsumbrellas-1.5.6_mapped_srg_1.20.1.jar.input",
+          "sha1": "89401cbff39c3b58124b52dfe9cef74f2ee7056a",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/paginatedadvancements-2.3.0_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/paginatedadvancements-2.3.0_mapped_srg_1.20.1.jar",
+          "sha1": "a450260ea03a13c1efbd7e96c34420fbf6e864bc",
+          "size": 69134
+        },
+        {
+          "path": "mods/.connector/paginatedadvancements-2.3.0_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/paginatedadvancements-2.3.0_mapped_srg_1.20.1.jar.input",
+          "sha1": "56c2f67d46a905ec70e9f9ee97672d44d5e6266c",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/particle-rain-3.0.6-1.20_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/particle-rain-3.0.6-1.20_mapped_srg_1.20.1.jar",
+          "sha1": "faa4a85bb769a5ff3481bda188ca54b7e3d77b10",
+          "size": 590625
+        },
+        {
+          "path": "mods/.connector/particle-rain-3.0.6-1.20_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/particle-rain-3.0.6-1.20_mapped_srg_1.20.1.jar.input",
+          "sha1": "0c0f9fed78d89704c55d561901909683216be293",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/particular-1.0.3_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/particular-1.0.3_mapped_srg_1.20.1.jar",
+          "sha1": "041ea1155807e27d5956b024b82d9e1ebb254e7d",
+          "size": 180735
+        },
+        {
+          "path": "mods/.connector/particular-1.0.3_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/particular-1.0.3_mapped_srg_1.20.1.jar.input",
+          "sha1": "47debbbe97a5ba06963e988c5b4b72101297a81f",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/wakes-0.2.4+1.20.1$DelaunayTriangulator-1.0.0_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/wakes-0.2.4%2B1.20.1%24DelaunayTriangulator-1.0.0_mapped_srg_1.20.1.jar",
+          "sha1": "f8a7b8f8c91f7e7a1a3bda60cb187ea144231766",
+          "size": 10947
+        },
+        {
+          "path": "mods/.connector/wakes-0.2.4+1.20.1$DelaunayTriangulator-1.0.0_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/wakes-0.2.4%2B1.20.1%24DelaunayTriangulator-1.0.0_mapped_srg_1.20.1.jar.input",
+          "sha1": "c0cf5a8a479b1485bdd1dc02234bde72a7acf369",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/wakes-0.2.4+1.20.1$satin-1.14.0_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/wakes-0.2.4%2B1.20.1%24satin-1.14.0_mapped_srg_1.20.1.jar",
+          "sha1": "4aa81280c63b3c4a1c7eb062d2140782a0ea7684",
+          "size": 100097
+        },
+        {
+          "path": "mods/.connector/wakes-0.2.4+1.20.1$satin-1.14.0_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/wakes-0.2.4%2B1.20.1%24satin-1.14.0_mapped_srg_1.20.1.jar.input",
+          "sha1": "3315ab044c9c8c80248da66368b3cdb4658512ef",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/wakes-0.2.4+1.20.1_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/wakes-0.2.4%2B1.20.1_mapped_srg_1.20.1.jar",
+          "sha1": "50942c2d0f862f4e560d78e47dc0d592460b3512",
+          "size": 351139
+        },
+        {
+          "path": "mods/.connector/wakes-0.2.4+1.20.1_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/wakes-0.2.4%2B1.20.1_mapped_srg_1.20.1.jar.input",
+          "sha1": "544a19648af685ea8f1c392ee3fd83feb960c3f4",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/wetlands-1.2-1.20.1_mapped_srg_1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/wetlands-1.2-1.20.1_mapped_srg_1.20.1.jar",
+          "sha1": "6de836269f4468eb2f94d866548a338d84a2189e",
+          "size": 1215570
+        },
+        {
+          "path": "mods/.connector/wetlands-1.2-1.20.1_mapped_srg_1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/wetlands-1.2-1.20.1_mapped_srg_1.20.1.jar.input",
+          "sha1": "d59d5cc898abd9691d3db224e4256708c019f906",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/temp/API-bclib-3.0.14$wunderlib-1.1.5.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/API-bclib-3.0.14%24wunderlib-1.1.5.jar",
+          "sha1": "da68cfe19a19a5b375cf37feed79971430c7d317",
+          "size": 221035
+        },
+        {
+          "path": "mods/.connector/temp/API-bclib-3.0.14$wunderlib-1.1.5.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/API-bclib-3.0.14%24wunderlib-1.1.5.jar.input",
+          "sha1": "b10482c9f68655270d6fa593773350fb2b7ef28b",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/temp/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$atomicfu-jvm-0.24.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24atomicfu-jvm-0.24.0.jar",
+          "sha1": "be966d288b2b6f572a24e92fa7cff4b5f9052da8",
+          "size": 36973
+        },
+        {
+          "path": "mods/.connector/temp/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$atomicfu-jvm-0.24.0.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24atomicfu-jvm-0.24.0.jar.input",
+          "sha1": "3489de614d3b9556869bb3b76c6d46ddd648688a",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/temp/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlin-reflect-2.0.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlin-reflect-2.0.0.jar",
+          "sha1": "4c42b0ef1034a87a2846cfda17107d2df028ae8b",
+          "size": 3089404
+        },
+        {
+          "path": "mods/.connector/temp/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlin-reflect-2.0.0.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlin-reflect-2.0.0.jar.input",
+          "sha1": "446f7443107cadc767f94a18b8845b75e31f9a03",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/temp/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlin-stdlib-2.0.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlin-stdlib-2.0.0.jar",
+          "sha1": "13ac3a8cdfe50b65b73a45a9ac089a93e3e433da",
+          "size": 1746647
+        },
+        {
+          "path": "mods/.connector/temp/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlin-stdlib-2.0.0.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlin-stdlib-2.0.0.jar.input",
+          "sha1": "805442959d55064ce17ec54705ae99f914f1ff10",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/temp/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlin-stdlib-jdk7-2.0.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlin-stdlib-jdk7-2.0.0.jar",
+          "sha1": "053704ff9fd5bbe47aa53f3b60c0f342d9e0a448",
+          "size": 1290
+        },
+        {
+          "path": "mods/.connector/temp/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlin-stdlib-jdk7-2.0.0.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlin-stdlib-jdk7-2.0.0.jar.input",
+          "sha1": "2304a94f36a3a291cb50c142396ac1cd1db7c6bf",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/temp/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlin-stdlib-jdk8-2.0.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlin-stdlib-jdk8-2.0.0.jar",
+          "sha1": "fa720108059de05a69379773f172375d3e1dab0a",
+          "size": 1296
+        },
+        {
+          "path": "mods/.connector/temp/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlin-stdlib-jdk8-2.0.0.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlin-stdlib-jdk8-2.0.0.jar.input",
+          "sha1": "d5920536a7f78cab9b57fabcb40d360296c01c17",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/temp/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlinx-coroutines-core-jvm-1.8.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlinx-coroutines-core-jvm-1.8.1.jar",
+          "sha1": "b0d9a50d5381c9d51d71768eb393e4204892ce9e",
+          "size": 1561611
+        },
+        {
+          "path": "mods/.connector/temp/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlinx-coroutines-core-jvm-1.8.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlinx-coroutines-core-jvm-1.8.1.jar.input",
+          "sha1": "9509ca878eaf8ec7de428c9c28e4857e122b6c12",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/temp/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlinx-coroutines-jdk8-1.8.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlinx-coroutines-jdk8-1.8.1.jar",
+          "sha1": "c2ce88860f272397cca5988c1e472ae6669243ed",
+          "size": 1300
+        },
+        {
+          "path": "mods/.connector/temp/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlinx-coroutines-jdk8-1.8.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlinx-coroutines-jdk8-1.8.1.jar.input",
+          "sha1": "2581b53d3ac42b480f1d88fcce1bb8f8a33135a8",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/temp/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlinx-datetime-jvm-0.6.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlinx-datetime-jvm-0.6.0.jar",
+          "sha1": "00ae8df3e3103c16f3d6b50f670c3619e308633e",
+          "size": 671512
+        },
+        {
+          "path": "mods/.connector/temp/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlinx-datetime-jvm-0.6.0.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlinx-datetime-jvm-0.6.0.jar.input",
+          "sha1": "dbae3cbed1d40cee5b0a8126257c8c2d15ee2350",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/temp/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlinx-serialization-cbor-jvm-1.6.3.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlinx-serialization-cbor-jvm-1.6.3.jar",
+          "sha1": "36eb22d303b4314638b4096378567576f7f887f8",
+          "size": 35324
+        },
+        {
+          "path": "mods/.connector/temp/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlinx-serialization-cbor-jvm-1.6.3.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlinx-serialization-cbor-jvm-1.6.3.jar.input",
+          "sha1": "b1ba0fe74f98cd239757ba8ccdb9fd1b20b9dd71",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/temp/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlinx-serialization-core-jvm-1.6.3.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlinx-serialization-core-jvm-1.6.3.jar",
+          "sha1": "4afacfd7bb419b54171d71c6264ced1759851873",
+          "size": 425020
+        },
+        {
+          "path": "mods/.connector/temp/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlinx-serialization-core-jvm-1.6.3.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlinx-serialization-core-jvm-1.6.3.jar.input",
+          "sha1": "6022414107e7ac8b81447d41f0acabe915d38e21",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/temp/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlinx-serialization-json-jvm-1.6.3.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlinx-serialization-json-jvm-1.6.3.jar",
+          "sha1": "63d3ce63ed22b7c95e3c2656cd33075a9c707e17",
+          "size": 267675
+        },
+        {
+          "path": "mods/.connector/temp/API-fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlinx-serialization-json-jvm-1.6.3.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/API-fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0%24kotlinx-serialization-json-jvm-1.6.3.jar.input",
+          "sha1": "9ed762a0eb1fc75b5256fd20e6f9819f8f352adf",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/temp/API-owo-lib-0.11.2+1.20$jankson-1.2.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/API-owo-lib-0.11.2%2B1.20%24jankson-1.2.2.jar",
+          "sha1": "907d929e2f77e3045bce594bdcc671e6f00419c9",
+          "size": 75454
+        },
+        {
+          "path": "mods/.connector/temp/API-owo-lib-0.11.2+1.20$jankson-1.2.2.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/API-owo-lib-0.11.2%2B1.20%24jankson-1.2.2.jar.input",
+          "sha1": "2632e2402431ee6ddbf4aba3d367306acc5980ee",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/temp/API-surveyor-0.6.25+1.20$kaleido-config-0.3.1+1.3.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/API-surveyor-0.6.25%2B1.20%24kaleido-config-0.3.1%2B1.3.2.jar",
+          "sha1": "51b736c3268631e9eb0f7526b3dc5d934807d034",
+          "size": 312290
+        },
+        {
+          "path": "mods/.connector/temp/API-surveyor-0.6.25+1.20$kaleido-config-0.3.1+1.3.2.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/API-surveyor-0.6.25%2B1.20%24kaleido-config-0.3.1%2B1.3.2.jar.input",
+          "sha1": "6c1ff012baaf44c6cdea256d7227a069eb147422",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/temp/BetterStats-3.9.7+fabric-1.20.1$tcdcommons-3.9.6+fabric-1.20.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/BetterStats-3.9.7%2Bfabric-1.20.1%24tcdcommons-3.9.6%2Bfabric-1.20.1.jar",
+          "sha1": "6cefb60d71143d15cdfb9c9801c602ef6c75824f",
+          "size": 819333
+        },
+        {
+          "path": "mods/.connector/temp/BetterStats-3.9.7+fabric-1.20.1$tcdcommons-3.9.6+fabric-1.20.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/BetterStats-3.9.7%2Bfabric-1.20.1%24tcdcommons-3.9.6%2Bfabric-1.20.1.jar.input",
+          "sha1": "deacbdeae0e61be990816c965b8ac0283798f5dc",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/temp/SomeAdd-farsight-fabric-1.20.1-4.3$jctools-core-4.0.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/SomeAdd-farsight-fabric-1.20.1-4.3%24jctools-core-4.0.1.jar",
+          "sha1": "4440391aa03bf85d41c2da2fac8bfdeb812daeee",
+          "size": 424177
+        },
+        {
+          "path": "mods/.connector/temp/SomeAdd-farsight-fabric-1.20.1-4.3$jctools-core-4.0.1.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/SomeAdd-farsight-fabric-1.20.1-4.3%24jctools-core-4.0.1.jar.input",
+          "sha1": "ae6f0cba69b1c7bcbc11d105b48eb778c684802a",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/temp/chatanimation-1.0.5$mixinextras-fabric-0.2.0-beta.9.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/chatanimation-1.0.5%24mixinextras-fabric-0.2.0-beta.9.jar",
+          "sha1": "205e8146e48698f27ffe867bec8e645096e93457",
+          "size": 105538
+        },
+        {
+          "path": "mods/.connector/temp/chatanimation-1.0.5$mixinextras-fabric-0.2.0-beta.9.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/chatanimation-1.0.5%24mixinextras-fabric-0.2.0-beta.9.jar.input",
+          "sha1": "c1a38f60cb84480fef998ae79c9395eb3d91ee43",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/temp/particular-1.0.3$owo-sentinel-0.11.2+1.20.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/particular-1.0.3%24owo-sentinel-0.11.2%2B1.20.jar",
+          "sha1": "1e09bfd74ad60d3fd4347529f8b318c616bc254f",
+          "size": 17258
+        },
+        {
+          "path": "mods/.connector/temp/particular-1.0.3$owo-sentinel-0.11.2+1.20.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/particular-1.0.3%24owo-sentinel-0.11.2%2B1.20.jar.input",
+          "sha1": "bf838cf808b212e1a7bb8a547848701f5da13f0c",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/temp/wakes-0.2.4+1.20.1$DelaunayTriangulator-1.0.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/wakes-0.2.4%2B1.20.1%24DelaunayTriangulator-1.0.0.jar",
+          "sha1": "45fb8d0ac47dafda218140ced9978e8bfab3f971",
+          "size": 10127
+        },
+        {
+          "path": "mods/.connector/temp/wakes-0.2.4+1.20.1$DelaunayTriangulator-1.0.0.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/wakes-0.2.4%2B1.20.1%24DelaunayTriangulator-1.0.0.jar.input",
+          "sha1": "c0cf5a8a479b1485bdd1dc02234bde72a7acf369",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/temp/wakes-0.2.4+1.20.1$jankson-1.2.2.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/wakes-0.2.4%2B1.20.1%24jankson-1.2.2.jar",
+          "sha1": "d3875a99c0e9825fec007de5e5912185cd0268c7",
+          "size": 75792
+        },
+        {
+          "path": "mods/.connector/temp/wakes-0.2.4+1.20.1$jankson-1.2.2.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/wakes-0.2.4%2B1.20.1%24jankson-1.2.2.jar.input",
+          "sha1": "f21d76880148a25eb172856f400e2074aab07ef8",
+          "size": 92
+        },
+        {
+          "path": "mods/.connector/temp/wakes-0.2.4+1.20.1$satin-1.14.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/wakes-0.2.4%2B1.20.1%24satin-1.14.0.jar",
+          "sha1": "9d0d8d031680818ee40dcba8530f3004249e089a",
+          "size": 99594
+        },
+        {
+          "path": "mods/.connector/temp/wakes-0.2.4+1.20.1$satin-1.14.0.jar.input",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Explore%20Techno%20Build%201.20.1/files/mods/.connector/temp/wakes-0.2.4%2B1.20.1%24satin-1.14.0.jar.input",
+          "sha1": "3315ab044c9c8c80248da66368b3cdb4658512ef",
+          "size": 92
+        }
+      ]
+    },
+    {
       "name": "Troll Friends Forge 1.7.10",
       "version": "1.0",
       "description": "EdisonPTS 2017 Vibe",
@@ -431,10 +3368,10 @@
     }
   ],
   "launcher_update": {
-    "version": "1.4.0",
+    "version": "1.5.0",
     "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/launcher/NaveStudio.exe",
-    "sha256": "a057a9a2603f8bb55eb6a8b5cd1f197badf61b8d3ecc229bfeb82be099068db5",
-    "size": 22614288,
+    "sha256": "704fd31a49b6f29cf14a2f7a9ede5ce6ef65a9e786256d22693575497975139b",
+    "size": 22610958,
     "notes": ""
   }
 }
