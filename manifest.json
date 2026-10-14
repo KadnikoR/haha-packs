@@ -264,30 +264,6 @@
           "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/worldedit_forge_mc1.12.2_6.1.10_dist.jar",
           "sha1": "17314bdab33678478af060d2156338ee34db8a09",
           "size": 1479535
-        },
-        {
-          "path": "mods/JustEnoughButtons/16f11595-1a3a-11ed-997d-f02f74958c02.jebs",
-          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/JustEnoughButtons/16f11595-1a3a-11ed-997d-f02f74958c02.jebs",
-          "sha1": "271a44beb215a162d3c2803cf3cc8bcb85f45edc",
-          "size": 231
-        },
-        {
-          "path": "mods/JustEnoughButtons/17a85f97-e941-49d2-8972-4f428cf52ab3.jebs",
-          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/JustEnoughButtons/17a85f97-e941-49d2-8972-4f428cf52ab3.jebs",
-          "sha1": "7acd6c393712a0c2f7896acd4f977032ad5c8ade",
-          "size": 4370
-        },
-        {
-          "path": "mods/JustEnoughButtons/79309c1d-b94b-4369-baaa-0ba09823b463.jebs",
-          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/JustEnoughButtons/79309c1d-b94b-4369-baaa-0ba09823b463.jebs",
-          "sha1": "8a604628d0467c863dd994d773db9917a00e4e01",
-          "size": 230
-        },
-        {
-          "path": "mods/JustEnoughButtons/d41d8cd9-8f00-3204-a980-0998ecf8427e.jebs",
-          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/JustEnoughButtons/d41d8cd9-8f00-3204-a980-0998ecf8427e.jebs",
-          "sha1": "579a72731208210c95e0bd29724235a2ead210fb",
-          "size": 4369
         }
       ]
     },
@@ -455,10 +431,10 @@
     }
   ],
   "launcher_update": {
-    "version": "1.3.0",
+    "version": "1.4.0",
     "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/launcher/NaveStudio.exe",
-    "sha256": "4532e65c395693c9d803dbc0d35205891b6ee0b693e4d024c1753c03603c155f",
-    "size": 22613910,
+    "sha256": "a057a9a2603f8bb55eb6a8b5cd1f197badf61b8d3ecc229bfeb82be099068db5",
+    "size": 22614288,
     "notes": ""
   }
 }
