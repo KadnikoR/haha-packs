@@ -292,6 +292,105 @@
       ]
     },
     {
+      "name": "Troll Friends Forge 1.7.10",
+      "version": "1.0",
+      "description": "EdisonPTS 2017 Vibe",
+      "minecraft": "1.7.10",
+      "loader": "forge",
+      "loader_version": null,
+      "memory_mb": 8192,
+      "server": "",
+      "managed_dirs": [
+        "mods"
+      ],
+      "user_files": [
+        "options.txt",
+        "config/*"
+      ],
+      "jvm_args": [],
+      "id": "Troll Friends 1.7.10",
+      "files": [
+        {
+          "path": "mods/CustomNPCs_1.7.10d.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Troll%20Friends%201.7.10/files/mods/CustomNPCs_1.7.10d.jar",
+          "sha1": "dd30caec748109b6267d4b41c1d0671597c19237",
+          "size": 8972983
+        },
+        {
+          "path": "mods/Decocraft-v1.12b_1.7.10.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Troll%20Friends%201.7.10/files/mods/Decocraft-v1.12b_1.7.10.jar",
+          "sha1": "88af0264b882bf6fa1b26c7194fb0e8cb4ae6f17",
+          "size": 7698824
+        },
+        {
+          "path": "mods/IC2Classic-1.7.10-1.2.4.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Troll%20Friends%201.7.10/files/mods/IC2Classic-1.7.10-1.2.4.jar",
+          "sha1": "55b263a4aaa026bc66af99e5d07ecf9663295e57",
+          "size": 3867308
+        },
+        {
+          "path": "mods/KeyAndCodeLock_1.7.10_1.4.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Troll%20Friends%201.7.10/files/mods/KeyAndCodeLock_1.7.10_1.4.jar",
+          "sha1": "2e60f5ae2a8790244264e792e144d854d89e4e97",
+          "size": 101781
+        },
+        {
+          "path": "mods/MineCamera-1.7.10-1.0.1.B4-universal.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Troll%20Friends%201.7.10/files/mods/MineCamera-1.7.10-1.0.1.B4-universal.jar",
+          "sha1": "b26a65dedb9eda78e650f3de9f3a295e6d615696",
+          "size": 11077
+        },
+        {
+          "path": "mods/ModelCitizens_mc1.7.10_1.0.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Troll%20Friends%201.7.10/files/mods/ModelCitizens_mc1.7.10_1.0.1.jar",
+          "sha1": "1acad20276950c0c57a01f815d4517d0b4e800e4",
+          "size": 45689
+        },
+        {
+          "path": "mods/MrCrayfishFurnitureModv3.4.81.7.10.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Troll%20Friends%201.7.10/files/mods/MrCrayfishFurnitureModv3.4.81.7.10.jar",
+          "sha1": "a95dd24a88920411df651f18aa3a55336abe13ad",
+          "size": 1729803
+        },
+        {
+          "path": "mods/Vanish.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Troll%20Friends%201.7.10/files/mods/Vanish.jar",
+          "sha1": "2e991b0edf6600a4b3b75b68b934654023d09672",
+          "size": 3415
+        },
+        {
+          "path": "mods/malisiscore-1.7.10-0.13.1.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Troll%20Friends%201.7.10/files/mods/malisiscore-1.7.10-0.13.1.jar",
+          "sha1": "6e8f63b4a352d82a7d5b554706c6528afcd9e595",
+          "size": 645269
+        },
+        {
+          "path": "mods/malisisdoors-1.7.10-1.12.0.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Troll%20Friends%201.7.10/files/mods/malisisdoors-1.7.10-1.12.0.jar",
+          "sha1": "b01a80c4c50b31d212204955f31a8cc469715ba9",
+          "size": 1620231
+        },
+        {
+          "path": "mods/secret_rooms_mod_1.7.10.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Troll%20Friends%201.7.10/files/mods/secret_rooms_mod_1.7.10.jar",
+          "sha1": "1d9388c4f7eb48e60ae6b9ee8b7c40b17d292bf5",
+          "size": 132137
+        },
+        {
+          "path": "mods/toomanyitems_mod_forge_1.7.10.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Troll%20Friends%201.7.10/files/mods/toomanyitems_mod_forge_1.7.10.jar",
+          "sha1": "28974e51c29a0fa172bb7dfcbd29bd1e9773181a",
+          "size": 113256
+        },
+        {
+          "path": "mods/worldedit_forge_mc1.7.10_6.1.1_dist.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Troll%20Friends%201.7.10/files/mods/worldedit_forge_mc1.7.10_6.1.1_dist.jar",
+          "sha1": "4f4df9706630906b3e2cdd55f1616f0a31f76049",
+          "size": 1461467
+        }
+      ]
+    },
+    {
       "name": "Forge 1.20.1 Stream Nave",
       "version": "1.0",
       "description": "Haha-Horror-Stream",
@@ -356,10 +455,10 @@
     }
   ],
   "launcher_update": {
-    "version": "1.2.0",
+    "version": "1.3.0",
     "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/launcher/NaveStudio.exe",
-    "sha256": "9a7922e9189270fe4476ca4b7fa9ece01bc55e0c914a0f39ad5428af2741c52d",
-    "size": 22614679,
+    "sha256": "4532e65c395693c9d803dbc0d35205891b6ee0b693e4d024c1753c03603c155f",
+    "size": 22613910,
     "notes": ""
   }
 }
