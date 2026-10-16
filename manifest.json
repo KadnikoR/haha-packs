@@ -3404,10 +3404,10 @@
     }
   ],
   "launcher_update": {
-    "version": "1.6.0",
+    "version": "1.7.0",
     "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/launcher/NaveStudio.exe",
-    "sha256": "cc3b1d0516a64e418948e0e74ec1154026bf5beb372289cb40ee36e4e19d0dfc",
-    "size": 22614262,
+    "sha256": "d7e5314bc00d7ccd52fb7d2583bdd9b12bfd1cb986dcda9234d2ae43b632e9d2",
+    "size": 24991437,
     "notes": ""
   }
 }
