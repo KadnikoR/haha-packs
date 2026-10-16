@@ -104,6 +104,12 @@
           "size": 31782
         },
         {
+          "path": "mods/OptiFine_1.12.2_HD_U_G5.jar",
+          "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/OptiFine_1.12.2_HD_U_G5.jar",
+          "sha1": "ca3aea3a09ce215906c346fe190907fe0347b0c4",
+          "size": 2669107
+        },
+        {
           "path": "mods/PrimalCore_1.12.2_0.6.105.jar",
           "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/packs/Cinematic%201.12.2/files/mods/PrimalCore_1.12.2_0.6.105.jar",
           "sha1": "d1cd14519d3a09abfa5d8ccc48c970933e57b93b",
@@ -3404,10 +3410,10 @@
     }
   ],
   "launcher_update": {
-    "version": "1.8.0",
+    "version": "1.9.0",
     "url": "https://raw.githubusercontent.com/KadnikoR/haha-packs/main/launcher/NaveStudio.exe",
-    "sha256": "39636728385f20d84cdd568484007de9334c85da58979c20b4e386190162bf8f",
-    "size": 25050575,
+    "sha256": "ab34a7b2a6399374247d077459bf3e24abc6d8fddb4f1df5c3cfc5aa7c7d9468",
+    "size": 25057911,
     "notes": ""
   }
 }
